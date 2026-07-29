@@ -9,10 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
     "@libsql/client": "^0.17.4",
->>>>>>> refs/remotes/origin/main
     "@neondatabase/serverless": "^1.1.0",
     "dotenv": "17.3.1",
     "framer-motion": "^12.43.0",
@@ -31,7 +28,6 @@
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
     "@types/sqlite3": "^3.1.11",
-<<<<<<< HEAD
     "better-sqlite3": "^13.0.2",
     "drizzle-kit": "^0.31.10",
     "drizzle-orm": "^0.45.2",
@@ -39,11 +35,6 @@
     "eslint-config-next": "^0.2.4",
     "install": "^0.13.0",
     "npm": "^11.18.0",
-=======
-    "drizzle-kit": "0.31.10",
-    "eslint": "9.39.4",
-    "eslint-config-next": "16.2.6",
->>>>>>> refs/remotes/origin/main
     "postcss": "8.5.8",
     "sqlite3": "^6.0.1",
     "tailwindcss": "4.1.17",
