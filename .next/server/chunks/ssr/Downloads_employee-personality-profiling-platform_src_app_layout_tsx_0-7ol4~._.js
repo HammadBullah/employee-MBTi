@@ -1,0 +1,3 @@
+module.exports=[2372,a=>{"use strict";var b=a.i(5769);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{children:a})})},"metadata",0,{title:"tandem° — Work has a personality",description:"A playful, ethical work-personality universe for understanding your vibe, finding your people, and collaborating better.",applicationName:"tandem°",keywords:["work personality","team collaboration","employee experience","ethical team insights"]},"viewport",0,{themeColor:"#0a0a0f",colorScheme:"dark",width:"device-width",initialScale:1}])},47761,a=>{a.n(a.i(2372))}];
+
+//# sourceMappingURL=Downloads_employee-personality-profiling-platform_src_app_layout_tsx_0-7ol4~._.js.map
