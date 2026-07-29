@@ -104,7 +104,7 @@ self.__SERVER_FILES_MANIFEST={
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/hammadsafi",
+    "outputFileTracingRoot": "/home/user/employee-MBTi",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -304,12 +304,12 @@ self.__SERVER_FILES_MANIFEST={
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.ts",
     "turbopack": {
-      "root": "/Users/hammadsafi"
+      "root": "/home/user/employee-MBTi"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Users/hammadsafi/Downloads/employee-personality-profiling-platform",
-  "relativeAppDir": "Downloads/employee-personality-profiling-platform",
+  "appDir": "/home/user/employee-MBTi",
+  "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
     ".next/server/pages-manifest.json",

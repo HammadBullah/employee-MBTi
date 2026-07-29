@@ -82,7 +82,7 @@ export async function POST(request: Request) {
           answers: payload.answers,
           visibility: "team",
           completed: true,
-          updatedAt: new Date(),
+          updatedAt: new Date().toISOString(),
         })
         .onConflictDoUpdate({
           target: assessmentProfiles.employeeId,
@@ -90,7 +90,7 @@ export async function POST(request: Request) {
             archetype: payload.archetype,
             answers: payload.answers,
             completed: true,
-            updatedAt: new Date(),
+            updatedAt: new Date().toISOString(),
           },
         })
         .returning();
@@ -102,7 +102,7 @@ export async function POST(request: Request) {
           target: employeeProgress.employeeId,
           set: {
             xp: sql`${employeeProgress.xp} + 120`,
-            updatedAt: new Date(),
+            updatedAt: new Date().toISOString(),
           },
         });
 

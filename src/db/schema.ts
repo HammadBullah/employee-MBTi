@@ -1,16 +1,12 @@
 import {
-  boolean,
-  integer,
-  jsonb,
-  pgTable,
-  serial,
+  sqliteTable,
   text,
-  timestamp,
-  uniqueIndex,
-} from "drizzle-orm/pg-core";
+  integer,
+  real,
+} from "drizzle-orm/sqlite-core";
 
-export const employees = pgTable("employees", {
-  id: serial("id").primaryKey(),
+export const employees = sqliteTable("employees", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   name: text("name").notNull(),
   role: text("role").notNull(),
   team: text("team").notNull(),
@@ -26,80 +22,66 @@ export const employees = pgTable("employees", {
   y: integer("y").notNull(),
 });
 
-export const users = pgTable("users", {
-  id: serial("id").primaryKey(),
+export const users = sqliteTable("users", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   email: text("email").notNull().unique(),
   name: text("name").notNull(),
   avatar: text("avatar"),
-  createdAt: timestamp("created_at", { withTimezone: true })
-    .notNull()
-    .defaultNow(),
+  createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
 });
 
-export const assessmentProfiles = pgTable(
+export const assessmentProfiles = sqliteTable(
   "assessment_profiles",
   {
-    id: serial("id").primaryKey(),
+    id: integer("id").primaryKey({ autoIncrement: true }),
     employeeId: integer("employee_id").notNull(),
     archetype: text("archetype").notNull(),
-    answers: jsonb("answers").$type<number[]>().notNull(),
+    answers: text("answers", { mode: "json" }).$type<number[]>().notNull(),
     visibility: text("visibility").notNull().default("team"),
-    completed: boolean("completed").notNull().default(true),
-    updatedAt: timestamp("updated_at", { withTimezone: true })
-      .notNull()
-      .defaultNow(),
-  },
-  (table) => [uniqueIndex("assessment_employee_idx").on(table.employeeId)],
+    completed: integer("completed", { mode: "boolean" }).notNull().default(true),
+    updatedAt: text("updated_at").notNull().default("CURRENT_TIMESTAMP"),
+  }
 );
 
-export const connectionRequests = pgTable("connection_requests", {
-  id: serial("id").primaryKey(),
+export const connectionRequests = sqliteTable("connection_requests", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   fromEmployeeId: integer("from_employee_id").notNull(),
   toEmployeeId: integer("to_employee_id").notNull(),
   note: text("note"),
   status: text("status").notNull().default("pending"),
-  createdAt: timestamp("created_at", { withTimezone: true })
-    .notNull()
-    .defaultNow(),
+  createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
 });
 
-export const moodCheckins = pgTable("mood_checkins", {
-  id: serial("id").primaryKey(),
+export const moodCheckins = sqliteTable("mood_checkins", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   employeeId: integer("employee_id").notNull(),
   mood: text("mood").notNull(),
   energy: integer("energy").notNull(),
-  shareWithTeam: boolean("share_with_team").notNull().default(false),
-  createdAt: timestamp("created_at", { withTimezone: true })
-    .notNull()
-    .defaultNow(),
+  shareWithTeam: integer("share_with_team", { mode: "boolean" }).notNull().default(false),
+  createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
 });
 
-export const appreciations = pgTable("appreciations", {
-  id: serial("id").primaryKey(),
+export const appreciations = sqliteTable("appreciations", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
   fromEmployeeId: integer("from_employee_id").notNull(),
   toEmployeeId: integer("to_employee_id").notNull(),
   badge: text("badge").notNull(),
   message: text("message").notNull(),
-  createdAt: timestamp("created_at", { withTimezone: true })
-    .notNull()
-    .defaultNow(),
+  createdAt: text("created_at").notNull().default("CURRENT_TIMESTAMP"),
 });
 
-export const employeeProgress = pgTable(
+export const employeeProgress = sqliteTable(
   "employee_progress",
   {
-    id: serial("id").primaryKey(),
+    id: integer("id").primaryKey({ autoIncrement: true }),
     employeeId: integer("employee_id").notNull(),
     xp: integer("xp").notNull().default(1720),
     level: integer("level").notNull().default(17),
     streak: integer("streak").notNull().default(8),
-    unlockedBadges: jsonb("unlocked_badges")
+    unlockedBadges: text("unlocked_badges", { mode: "json" })
       .$type<string[]>()
       .notNull()
       .default(["Deep Work DJ", "Meeting Survivor"]),
-    updatedAt: timestamp("updated_at", { withTimezone: true })
-      .notNull()
-      .defaultNow(),
-  },
-  (table) => [uniqueIndex("progress_employee_idx").on(table.employeeId)],
+    updatedAt: text("updated_at").notNull().default("CURRENT_TIMESTAMP"),
+  }
 );

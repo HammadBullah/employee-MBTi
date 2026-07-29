@@ -1,3 +1,0 @@
-module.exports=[46363,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(67614);a.n(d("[project]/Downloads/employee-personality-profiling-platform/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},44741,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(67614);a.n(d("[project]/Downloads/employee-personality-profiling-platform/node_modules/next/dist/client/components/builtin/global-error.js"))},26728,a=>{"use strict";a.i(46363);var b=a.i(44741);a.n(b)},70269,a=>{a.n(a.i(26728))}];
-
-//# sourceMappingURL=0mqo_next_dist_client_components_builtin_global-error_0oh7s8d.js.map
