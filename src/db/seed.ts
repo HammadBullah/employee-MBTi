@@ -6,10 +6,7 @@ async function seed() {
   console.log("Seeding employees...");
   
   for (const person of people) {
-    await db.insert(employees).values(person).onConflictDoUpdate({
-      target: employees.id,
-      set: person,
-    });
+    await db.insert(employees).values(person);
   }
 
   // Seed progress for current user (Hammad, id 1)
@@ -19,13 +16,6 @@ async function seed() {
     level: 17,
     streak: 8,
     unlockedBadges: ["Deep Work DJ", "Meeting Survivor"],
-  }).onConflictDoUpdate({
-    target: employeeProgress.employeeId,
-    set: {
-      xp: 1720,
-      level: 17,
-      streak: 8,
-    }
   });
 
   console.log("Seed complete!");
