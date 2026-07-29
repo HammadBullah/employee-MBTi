@@ -75,13 +75,13 @@ export const employeeProgress = sqliteTable(
   {
     id: integer("id").primaryKey({ autoIncrement: true }),
     employeeId: integer("employee_id").notNull(),
-    xp: integer("xp").notNull().default(1720),
-    level: integer("level").notNull().default(17),
-    streak: integer("streak").notNull().default(8),
+    xp: integer("xp").notNull().default(0),
+    level: integer("level").notNull().default(1),
+    streak: integer("streak").notNull().default(0),
     unlockedBadges: text("unlocked_badges", { mode: "json" })
       .$type<string[]>()
       .notNull()
-      .default(["Deep Work DJ", "Meeting Survivor"]),
+      .default([]),
     updatedAt: text("updated_at").notNull().default("CURRENT_TIMESTAMP"),
   }
 );

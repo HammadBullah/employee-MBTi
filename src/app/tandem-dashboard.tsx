@@ -226,6 +226,8 @@ function HomeView({
   notify: (message: string, party?: boolean) => void;
   mood: string;
   xp: number;
+  level: number;
+  archetype: string;
   people: Person[];
   user: { name: string };
 }) {
@@ -257,14 +259,14 @@ function HomeView({
           <motion.div className="hero-blob blob-a" animate={{ x: [0, 20, -8, 0], y: [0, -13, 8, 0] }} transition={{ duration: 9, repeat: Infinity }} />
           <motion.div className="hero-blob blob-b" animate={{ x: [0, -18, 9, 0], y: [0, 15, -5, 0] }} transition={{ duration: 11, repeat: Infinity }} />
           <div className="personality-copy">
-            <div className="hero-topline"><span className="live-chip"><Sparkles size={12} /> YOUR PERSONALITY</span><span>LEVEL 17</span></div>
-            <span className="hero-emoji">🦦</span>
-            <h2>Calm Chaos<br />Controller</h2>
+            <div className="hero-topline"><span className="live-chip"><Sparkles size={12} /> YOUR PERSONALITY</span><span>LEVEL {level}</span></div>
+            <span className="hero-emoji">✨</span>
+            <h2>{archetype.split(" ").slice(0, -1).join(" ")}<br />{archetype.split(" ").slice(-1)}</h2>
             <p>Part strategist. Part firefighter.<br />Somehow still chill.</p>
             <button>Open collectible <ArrowRight size={16} /></button>
           </div>
           <div className="hero-level">
-            <ProgressRing value={72} color="#ffffff"><strong>72%</strong><small>to lvl 18</small></ProgressRing>
+            <ProgressRing value={(xp % 1000) / 10} color="#ffffff"><strong>{Math.floor((xp % 1000) / 10)}%</strong><small>to lvl {level + 1}</small></ProgressRing>
             <span>{xp.toLocaleString()} XP</span>
           </div>
           <span className="floating-sticker sticker-one">structured chaos</span>
@@ -327,7 +329,7 @@ function HomeView({
   );
 }
 
-function ProfileView({ openQuiz, notify }: { openQuiz: () => void; notify: (message: string, party?: boolean) => void }) {
+function ProfileView({ openQuiz, notify, user, level, archetype }: { openQuiz: () => void; notify: (message: string, party?: boolean) => void; user: { name: string }; level: number; archetype: string }) {
   const [theme, setTheme] = useState("cosmic");
   const [shared, setShared] = useState(true);
   return (
@@ -339,7 +341,7 @@ function ProfileView({ openQuiz, notify }: { openQuiz: () => void; notify: (mess
           <div className="card-corners"><span>✦</span><span>017</span></div>
           <div className="card-rarity">RARE · CORE PERSONALITY</div>
           <div className="otter-orb"><div className="otter-halo" /><span>🦦</span><i>✦</i><b>+</b></div>
-          <div className="collectible-title"><small>HAMMAD&apos;S WORK TYPE</small><h2>Calm Chaos<br />Controller</h2><span>LEVEL 17</span></div>
+          <div className="collectible-title"><small>{user.name.split(" ")[0].toUpperCase()}&apos;S WORK TYPE</small><h2>{archetype.split(" ").slice(0, -1).join(" ")}<br />{archetype.split(" ").slice(-1)}</h2><span>LEVEL {level}</span></div>
           <p>“Turns impossible deadlines into somehow-finished projects.”</p>
           <div className="card-xp"><div><i style={{ width: "72%" }} /></div><span>1,720 / 2,400 XP</span></div>
           <div className="card-footer"><span>#00017</span><b>TANDEM ORIGINAL</b><span>2025</span></div>
@@ -420,13 +422,13 @@ function GalaxyView({ notify, people }: { notify: (message: string) => void; peo
   );
 }
 
-function ChallengesView({ notify, xp }: { notify: (message: string, party?: boolean) => void; xp: number }) {
+function ChallengesView({ notify, xp, level }: { notify: (message: string, party?: boolean) => void; xp: number; level: number }) {
   const [claimed, setClaimed] = useState<Set<number>>(new Set());
   const claim = (index: number, amount: number) => { setClaimed((current) => new Set(current).add(index)); notify(`Quest claimed! +${amount} XP landed in your pocket`, true); };
   return (
     <div className="view challenges-view">
       <PageIntro eyebrow="QUEST BOARD · SEASON 04" title={<>Small quests. <span className="gradient-text">Main-character growth.</span></>} copy="Build better work habits without a leaderboard breathing down your neck." action={<div className="xp-wallet"><span><Zap size={17} fill="currentColor" /></span><div><small>YOUR WALLET</small><strong>{xp.toLocaleString()} XP</strong></div></div>} />
-      <section className="season-pass glass-card"><div className="season-copy"><span className="season-badge">SEASON 04 · COSMIC COWORKERS</span><h2>Level 17</h2><p>680 XP until you unlock the <strong>Neon Nebula</strong> card theme.</p><div className="season-progress"><i><b style={{ width: "72%" }} /></i><span>1,720 / 2,400</span></div></div><div className="season-reward"><span className="locked-theme"><i /><b>✦</b></span><div><small>NEXT REWARD</small><strong>Neon Nebula</strong><em>Profile theme</em></div><LockKeyhole size={17} /></div><div className="season-mascot"><Mascot mood="party" /></div></section>
+      <section className="season-pass glass-card"><div className="season-copy"><span className="season-badge">SEASON 04 · COSMIC COWORKERS</span><h2>Level {level}</h2><p>Play quests to unlock the <strong>Neon Nebula</strong> card theme.</p><div className="season-progress"><i><b style={{ width: `${(xp % 1000) / 10}%` }} /></i><span>{xp.toLocaleString()} XP</span></div></div><div className="season-reward"><span className="locked-theme"><i /><b>✦</b></span><div><small>NEXT REWARD</small><strong>Neon Nebula</strong><em>Profile theme</em></div><LockKeyhole size={17} /></div><div className="season-mascot"><Mascot mood="party" /></div></section>
       <section className="section-block"><div className="section-title"><div><Eyebrow>THIS WEEK</Eyebrow><h2>Choose your side quests</h2></div><span className="soft-label">Do what feels good. Skip what doesn&apos;t.</span></div><div className="challenge-grid">{challenges.map((challenge, index) => <motion.article key={challenge.title} className={`challenge-card glass-card ${challenge.color}`} whileHover={{ y: -7 }}><div className="challenge-top"><span>{challenge.emoji}</span><b>+{challenge.xp} XP</b></div><h3>{challenge.title}</h3><p>{challenge.copy}</p><div className="challenge-progress"><div><i style={{ width: `${challenge.progress}%` }} /></div><span>{challenge.progress}%</span></div><button className={claimed.has(index) ? "claimed" : ""} onClick={() => claim(index, challenge.xp)} disabled={claimed.has(index)}>{claimed.has(index) ? <><Check size={16} /> Added to quests</> : <><Plus size={16} /> Start quest</>}</button></motion.article>)}</div></section>
       <section className="section-block"><div className="section-title"><div><Eyebrow>TROPHY CABINET</Eyebrow><h2>Your questionable achievements</h2></div><button onClick={() => notify("Achievement gallery opened")}>View all 24 <ArrowRight size={15} /></button></div><div className="achievement-row">{achievements.map((achievement) => <motion.article key={achievement.name} className={`achievement-card glass-card ${achievement.unlocked ? "" : "locked"}`} whileHover={achievement.unlocked ? { y: -5, rotate: -1 } : {}}><span>{achievement.unlocked ? achievement.emoji : "❔"}</span><div><h3>{achievement.name}</h3><p>{achievement.note}</p></div>{achievement.unlocked ? <Check size={15} /> : <LockKeyhole size={15} />}</motion.article>)}</div></section>
       <section className="mystery-box glass-card"><div className="mystery-visual"><motion.span animate={{ rotate: [-3, 3, -3], y: [0, -5, 0] }} transition={{ repeat: Infinity, duration: 2 }}>🎁</motion.span><i>?</i></div><div><Eyebrow>8 DAY STREAK REWARD</Eyebrow><h2>A mystery box is judging you</h2><p>Come back tomorrow to find out if it contains a rare theme or one very fancy sticker.</p></div><button onClick={() => notify("Not yet, time traveller. Come back tomorrow 👀")}>Opens tomorrow</button></section>
@@ -434,7 +436,7 @@ function ChallengesView({ notify, xp }: { notify: (message: string, party?: bool
   );
 }
 
-function WrappedView({ notify, user }: { notify: (message: string, party?: boolean) => void; user: { name: string } }) {
+function WrappedView({ notify, user, level, archetype }: { notify: (message: string, party?: boolean) => void; user: { name: string }; level: number; archetype: string }) {
   const [slide, setSlide] = useState(0);
   const slides = [
     { kicker: "YOUR WEEK IN TANDEM", big: "You were\nkind of iconic.", emoji: "✨", note: "12–16 May · let’s unwrap the chaos", theme: "intro" },
@@ -450,7 +452,7 @@ function WrappedView({ notify, user }: { notify: (message: string, party?: boole
       <section className={`wrapped-stage wrapped-${current.theme}`}>
         <div className="wrapped-grid-bg" />
         <motion.div key={slide} className="wrapped-slide" initial={{ opacity: 0, scale: .92, rotate: -2 }} animate={{ opacity: 1, scale: 1, rotate: 0 }} exit={{ opacity: 0, scale: 1.05 }} transition={{ type: "spring", stiffness: 180, damping: 20 }}>
-          <div className="wrapped-brand"><Brand /><span>WEEK 20</span></div><Eyebrow>{current.kicker}</Eyebrow><motion.span className="wrapped-emoji" animate={{ rotate: [0, -8, 8, 0], scale: [1, 1.08, 1] }} transition={{ duration: 2.5, repeat: Infinity }}>{current.emoji}</motion.span><h2>{current.big.split("\n").map((line) => <span key={line}>{line}</span>)}</h2><p>{current.note}</p><div className="wrapped-person"><span>{user.name.charAt(0)}</span><div><b>{user.name.split(" ")[0]}</b><small>Calm Chaos Controller · Lvl 17</small></div></div>
+          <div className="wrapped-brand"><Brand /><span>WEEK 20</span></div><Eyebrow>{current.kicker}</Eyebrow><motion.span className="wrapped-emoji" animate={{ rotate: [0, -8, 8, 0], scale: [1, 1.08, 1] }} transition={{ duration: 2.5, repeat: Infinity }}>{current.emoji}</motion.span><h2>{current.big.split("\n").map((line) => <span key={line}>{line}</span>)}</h2><p>{current.note}</p><div className="wrapped-person"><span>{user.name.charAt(0)}</span><div><b>{user.name.split(" ")[0]}</b><small>{archetype} · Lvl {level}</small></div></div>
         </motion.div>
         <div className="wrapped-dots">{slides.map((_, index) => <button aria-label={`Go to slide ${index + 1}`} key={index} onClick={() => setSlide(index)} className={index === slide ? "active" : ""}><i /></button>)}</div>
         <button className="wrapped-arrow prev" onClick={() => setSlide((slide - 1 + slides.length) % slides.length)}><ArrowLeft size={19} /></button><button className="wrapped-arrow next" onClick={() => setSlide((slide + 1) % slides.length)}><ArrowRight size={19} /></button>
@@ -529,7 +531,9 @@ export default function TandemDashboard({ user, onLogout }: { user: { id: number
   const [connected, setConnected] = useState<Set<number>>(new Set());
   const [toast, setToast] = useState("");
   const [burst, setBurst] = useState(0);
-  const [xp, setXp] = useState(1720);
+  const [xp, setXp] = useState(0);
+  const [level, setLevel] = useState(1);
+  const [archetype, setArchetype] = useState("Undiscovered Vibe");
   const [dynamicPeople, setDynamicPeople] = useState<Person[]>(people);
   const [loading, setLoading] = useState(true);
   const [sound, setSound] = useState(true);
@@ -548,6 +552,10 @@ export default function TandemDashboard({ user, onLogout }: { user: { id: number
           }
           if (data.progress) {
             setXp(data.progress.xp);
+            setLevel(data.progress.level);
+          }
+          if (data.profile && data.profile.archetype) {
+            setArchetype(data.profile.archetype);
           }
         }
       } catch (error) {
@@ -647,19 +655,19 @@ export default function TandemDashboard({ user, onLogout }: { user: { id: number
         <button className="workspace-chip"><span>AC</span><div><strong>Arc & Co.</strong><small>46 humans · 12 online</small></div><ChevronDown size={15} /></button>
         <label className="sidebar-search"><Search size={16} /><input aria-label="Search Tandem" placeholder="Search anything" /><kbd>⌘K</kbd></label>
         <nav><Eyebrow>YOUR SPACE</Eyebrow>{desktopNav.map((item) => { const Icon = viewMeta[item].icon; return <button key={item} className={view === item ? "active" : ""} onClick={() => navigate(item)}><Icon size={18} /><span>{viewMeta[item].label}</span>{item === "challenges" && <b>3</b>}{item === "wrapped" && <em>NEW</em>}</button>; })}<Eyebrow>WORKSPACE</Eyebrow><button className={view === "manager" ? "active" : ""} onClick={() => navigate("manager")}><BriefcaseBusiness size={18} /><span>Team studio</span><i className="privacy-dot" /></button><button onClick={() => notify("Coffee roulette opens every Wednesday ☕")}><Coffee size={18} /><span>Coffee roulette</span></button><button onClick={() => notify("AI ice breakers loaded and ready") }><Bot size={18} /><span>AI ice breakers</span></button></nav>
-        <div className="sidebar-level"><div className="level-top"><ProgressRing value={72} color="#9b87ff"><strong>17</strong></ProgressRing><div><small>LEVEL 17</small><strong>Calm Chaos Controller</strong><span>{xp.toLocaleString()} XP</span></div></div><div className="level-bar"><i style={{ width: "72%" }} /></div><button onClick={() => navigate("challenges")}>680 XP to level 18 <ArrowRight size={13} /></button></div>
+        <div className="sidebar-level"><div className="level-top"><ProgressRing value={(xp % 1000) / 10} color="#9b87ff"><strong>{level}</strong></ProgressRing><div><small>LEVEL {level}</small><strong>{archetype}</strong><span>{xp.toLocaleString()} XP</span></div></div><div className="level-bar"><i style={{ width: `${(xp % 1000) / 10}%` }} /></div><button onClick={() => navigate("challenges")}>Keep playing to level up <ArrowRight size={13} /></button></div>
         <div className="sidebar-user"><span className="hammad-avatar-mini">{user.name.charAt(0)}<i /></span><div><strong>{user.name.split(" ")[0]}</strong><small>Product · Locked in 🎯</small></div><button onClick={() => { if(onLogout && confirm("Peace out?")) onLogout(); }}><MoreHorizontal size={18} /></button></div>
       </aside>
       {mobileOpen && <button className="sidebar-overlay" onClick={() => setMobileOpen(false)} aria-label="Close menu" />}
       <div className="app-main">
         <header className="topbar"><button className="menu-button" onClick={() => setMobileOpen(true)}><Menu size={21} /></button><div className="breadcrumb"><span>Arc & Co.</span><ChevronRight size={13} /><strong>{viewMeta[view].label}</strong></div><div className="top-actions"><button className="top-search"><Search size={16} /><span>Ask Pip anything…</span><kbd>⌘ /</kbd></button><button className="icon-action" onClick={() => setSound(!sound)}>{sound ? <Volume2 size={18} /> : <VolumeX size={18} />}</button><div className="notification-wrap"><button className="icon-action notification-button" onClick={() => setNotificationsOpen(!notificationsOpen)}><Bell size={18} /><i /></button><AnimatePresence>{notificationsOpen && <motion.div className="notification-popover" initial={{ opacity: 0, y: -8, scale: .97 }} animate={{ opacity: 1, y: 0, scale: 1 }} exit={{ opacity: 0, y: -6 }}><div><strong>Fresh from your orbit</strong><span>2 new</span></div><button onClick={() => { setNotificationsOpen(false); navigate("wrapped"); }}><span className="notice-icon purple">✨</span><p><b>Your Weekly Wrapped just dropped</b><small>See the week you somehow survived · now</small></p></button><button onClick={() => { setNotificationsOpen(false); navigate("squad"); }}><span className="notice-icon mint">☕</span><p><b>Sarah accepted your coffee signal</b><small>Thursday at 2:00 PM · 12 min ago</small></p></button></motion.div>}</AnimatePresence></div><button className="manager-toggle" onClick={() => navigate(view === "manager" ? "home" : "manager")}><ShieldCheck size={15} />{view === "manager" ? "Employee mode" : "Team studio"}</button></div></header>
         <AnimatePresence mode="wait"><motion.main key={view} initial={{ opacity: 0, y: reduceMotion ? 0 : 14 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: reduceMotion ? 0 : -8 }} transition={{ duration: .22 }}>
-          {view === "home" && <HomeView navigate={navigate} openQuiz={() => setQuizOpen(true)} openMood={() => setMoodOpen(true)} openAppreciation={setAppreciationPerson} notify={notify} mood={mood} xp={xp} people={dynamicPeople} user={user} />}
-          {view === "profile" && <ProfileView openQuiz={() => setQuizOpen(true)} notify={notify} />}
+          {view === "home" && <HomeView navigate={navigate} openQuiz={() => setQuizOpen(true)} openMood={() => setMoodOpen(true)} openAppreciation={setAppreciationPerson} notify={notify} mood={mood} xp={xp} level={level} archetype={archetype} people={dynamicPeople} user={user} />}
+          {view === "profile" && <ProfileView openQuiz={() => setQuizOpen(true)} notify={notify} user={user} level={level} archetype={archetype} />}
           {view === "squad" && <SquadView openAppreciation={setAppreciationPerson} connect={connect} connected={connected} navigate={navigate} people={dynamicPeople} />}
           {view === "galaxy" && <GalaxyView notify={notify} people={dynamicPeople} />}
-          {view === "challenges" && <ChallengesView notify={notify} xp={xp} />}
-          {view === "wrapped" && <WrappedView notify={notify} user={user} />}
+          {view === "challenges" && <ChallengesView notify={notify} xp={xp} level={level} />}
+          {view === "wrapped" && <WrappedView notify={notify} user={user} level={level} archetype={archetype} />}
           {view === "manager" && <ManagerView notify={notify} people={dynamicPeople} />}
         </motion.main></AnimatePresence>
       </div>

@@ -15,10 +15,46 @@ import { eq, not } from "drizzle-orm";
 const validMoods = new Set(["focused", "sunny", "social", "lowkey", "chaos"]);
 const validBadges = new Set(["Clutch Save", "Good Vibes", "Brain Spark", "Kind Human"]);
 
+export async function GET(request: Request) {
+  try {
+    const { searchParams } = new URL(request.url);
+    const userIdStr = searchParams.get("userId");
+    
+    if (!userIdStr) {
+      return NextResponse.json({ error: "Missing userId" }, { status: 400 });
+    }
+    const userId = Number(userIdStr);
+
+    const [progress] = await db
+      .select()
+      .from(employeeProgress)
+      .where(eq(employeeProgress.employeeId, userId));
+
+    const [profile] = await db
+      .select()
+      .from(assessmentProfiles)
+      .where(eq(assessmentProfiles.employeeId, userId));
+      
+    // Optionally fetch dynamic people here if needed
+    // const allEmployees = await db.select().from(employees);
+
+    return NextResponse.json({
+      ok: true,
+      progress: progress || { xp: 0, level: 1, streak: 1, unlockedBadges: [] },
+      profile: profile || null,
+      // people: allEmployees, // Only if the dashboard expects overriding people
+    });
+  } catch (error) {
+    console.error("GET tandem error", error);
+    return NextResponse.json({ error: "Failed to fetch data." }, { status: 500 });
+  }
+}
+
 export async function POST(request: Request) {
   try {
     const payload = (await request.json()) as {
       action?: string;
+      userId?: number;
       email?: string;
       name?: string;
       answers?: number[];
@@ -54,7 +90,22 @@ export async function POST(request: Request) {
         })
         .returning();
 
-      return NextResponse.json({ ok: true, user });
+      // Ensure progress exists for this user
+      let [progress] = await db.select().from(employeeProgress).where(eq(employeeProgress.employeeId, user.id));
+      if (!progress) {
+        [progress] = await db.insert(employeeProgress).values({
+          employeeId: user.id,
+          xp: 0,
+          level: 1,
+          streak: 1,
+          unlockedBadges: [],
+        }).returning();
+      }
+
+      // Ensure assessment profile exists
+      let [profile] = await db.select().from(assessmentProfiles).where(eq(assessmentProfiles.employeeId, user.id));
+      
+      return NextResponse.json({ ok: true, user, progress, profile: profile || null });
     }
 
 
@@ -77,7 +128,7 @@ export async function POST(request: Request) {
       const [profile] = await db
         .insert(assessmentProfiles)
         .values({
-          employeeId: 1,
+          employeeId: payload.userId!,
           archetype: payload.archetype,
           answers: payload.answers,
           visibility: "team",
@@ -97,7 +148,7 @@ export async function POST(request: Request) {
 
       await db
         .insert(employeeProgress)
-        .values({ employeeId: 1, xp: 1840, level: 17, streak: 8 })
+        .values({ employeeId: payload.userId!, xp: 1840, level: 17, streak: 8 })
         .onConflictDoUpdate({
           target: employeeProgress.employeeId,
           set: {
@@ -124,7 +175,7 @@ export async function POST(request: Request) {
       const [connection] = await db
         .insert(connectionRequests)
         .values({
-          fromEmployeeId: 1,
+          fromEmployeeId: payload.userId!,
           toEmployeeId: Number(payload.toEmployeeId),
           note: payload.note?.trim().slice(0, 240) || null,
         })
@@ -150,7 +201,7 @@ export async function POST(request: Request) {
       const [checkin] = await db
         .insert(moodCheckins)
         .values({
-          employeeId: 1,
+          employeeId: payload.userId!,
           mood: payload.mood,
           energy: Number(payload.energy),
           shareWithTeam: Boolean(payload.shareWithTeam),
@@ -178,7 +229,7 @@ export async function POST(request: Request) {
       const [appreciation] = await db
         .insert(appreciations)
         .values({
-          fromEmployeeId: 1,
+          fromEmployeeId: payload.userId!,
           toEmployeeId: Number(payload.toEmployeeId),
           badge: payload.badge,
           message: payload.message.trim().slice(0, 280),

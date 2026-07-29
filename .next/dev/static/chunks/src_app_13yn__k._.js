@@ -1647,7 +1647,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                             children: "👋"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 237,
+                            lineNumber: 239,
                             columnNumber: 58
                         }, this)
                     ]
@@ -1661,7 +1661,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                             fill: "currentColor"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 239,
+                            lineNumber: 241,
                             columnNumber: 46
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1670,31 +1670,31 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     children: "8 day streak"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 239,
+                                    lineNumber: 241,
                                     columnNumber: 91
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                     children: "Personal best: 12"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 239,
+                                    lineNumber: 241,
                                     columnNumber: 120
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 239,
+                            lineNumber: 241,
                             columnNumber: 85
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 239,
+                    lineNumber: 241,
                     columnNumber: 17
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 235,
+                lineNumber: 237,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1709,7 +1709,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 children: currentMood.emoji
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 244,
+                                lineNumber: 246,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1718,33 +1718,33 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "TODAY'S MOOD"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 245,
+                                        lineNumber: 247,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         children: currentMood.label
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 245,
+                                        lineNumber: 247,
                                         columnNumber: 49
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 245,
+                                lineNumber: 247,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronRight$3e$__["ChevronRight"], {
                                 size: 16
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 246,
+                                lineNumber: 248,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 243,
+                        lineNumber: 245,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1756,12 +1756,12 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 18
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 248,
+                                    lineNumber: 250,
                                     columnNumber: 72
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 248,
+                                lineNumber: 250,
                                 columnNumber: 37
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1770,7 +1770,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "ENERGY"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 248,
+                                        lineNumber: 250,
                                         columnNumber: 102
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -1780,25 +1780,25 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "/ 5"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 248,
+                                                lineNumber: 250,
                                                 columnNumber: 135
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 248,
+                                        lineNumber: 250,
                                         columnNumber: 123
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 248,
+                                lineNumber: 250,
                                 columnNumber: 96
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 248,
+                        lineNumber: 250,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1810,12 +1810,12 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 18
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 249,
+                                    lineNumber: 251,
                                     columnNumber: 70
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 249,
+                                lineNumber: 251,
                                 columnNumber: 37
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1824,7 +1824,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "COLLAB VIBE"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 249,
+                                        lineNumber: 251,
                                         columnNumber: 111
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -1834,25 +1834,25 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "/ 100"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 249,
+                                                lineNumber: 251,
                                                 columnNumber: 148
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 249,
+                                        lineNumber: 251,
                                         columnNumber: 137
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 249,
+                                lineNumber: 251,
                                 columnNumber: 105
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 249,
+                        lineNumber: 251,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1864,12 +1864,12 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 18
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 250,
+                                    lineNumber: 252,
                                     columnNumber: 70
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 250,
+                                lineNumber: 252,
                                 columnNumber: 37
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1878,26 +1878,26 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "TODAY'S VIBE"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 250,
+                                        lineNumber: 252,
                                         columnNumber: 103
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         children: "Lo-fi launch"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 250,
+                                        lineNumber: 252,
                                         columnNumber: 135
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 250,
+                                lineNumber: 252,
                                 columnNumber: 97
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 250,
+                        lineNumber: 252,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1907,18 +1907,18 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 251,
+                            lineNumber: 253,
                             columnNumber: 107
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 251,
+                        lineNumber: 253,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 242,
+                lineNumber: 244,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1932,7 +1932,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 className: "hero-noise"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 256,
+                                lineNumber: 258,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1957,7 +1957,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 }
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 257,
+                                lineNumber: 259,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -1982,7 +1982,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 }
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 258,
+                                lineNumber: 260,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1998,50 +1998,53 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                         size: 12
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 260,
+                                                        lineNumber: 262,
                                                         columnNumber: 71
                                                     }, this),
                                                     " YOUR PERSONALITY"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 260,
+                                                lineNumber: 262,
                                                 columnNumber: 43
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                children: "LEVEL 17"
-                                            }, void 0, false, {
+                                                children: [
+                                                    "LEVEL ",
+                                                    level
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 260,
+                                                lineNumber: 262,
                                                 columnNumber: 117
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 260,
+                                        lineNumber: 262,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         className: "hero-emoji",
-                                        children: "🦦"
+                                        children: "✨"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 261,
+                                        lineNumber: 263,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: [
-                                            "Calm Chaos",
+                                            archetype.split(" ").slice(0, -1).join(" "),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 262,
-                                                columnNumber: 27
+                                                lineNumber: 264,
+                                                columnNumber: 62
                                             }, this),
-                                            "Controller"
+                                            archetype.split(" ").slice(-1)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 262,
+                                        lineNumber: 264,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2049,14 +2052,14 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                             "Part strategist. Part firefighter.",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 263,
+                                                lineNumber: 265,
                                                 columnNumber: 50
                                             }, this),
                                             "Somehow still chill."
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 263,
+                                        lineNumber: 265,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2066,46 +2069,52 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 size: 16
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 264,
+                                                lineNumber: 266,
                                                 columnNumber: 38
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 264,
+                                        lineNumber: 266,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 259,
+                                lineNumber: 261,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "hero-level",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(ProgressRing, {
-                                        value: 72,
+                                        value: xp % 1000 / 10,
                                         color: "#ffffff",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "72%"
-                                            }, void 0, false, {
+                                                children: [
+                                                    Math.floor(xp % 1000 / 10),
+                                                    "%"
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 267,
-                                                columnNumber: 54
+                                                lineNumber: 269,
+                                                columnNumber: 68
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                children: "to lvl 18"
-                                            }, void 0, false, {
+                                                children: [
+                                                    "to lvl ",
+                                                    level + 1
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 267,
-                                                columnNumber: 74
+                                                lineNumber: 269,
+                                                columnNumber: 116
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 267,
+                                        lineNumber: 269,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2115,13 +2124,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 268,
+                                        lineNumber: 270,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 266,
+                                lineNumber: 268,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2129,7 +2138,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 children: "structured chaos"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 270,
+                                lineNumber: 272,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2137,13 +2146,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 children: "+ calm energy"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 271,
+                                lineNumber: 273,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 255,
+                        lineNumber: 257,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2158,12 +2167,12 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                             size: 22
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 276,
+                                            lineNumber: 278,
                                             columnNumber: 41
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 276,
+                                        lineNumber: 278,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2172,20 +2181,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "PIP'S DAILY WISDOM"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 277,
+                                                lineNumber: 279,
                                                 columnNumber: 18
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("blockquote", {
                                                 children: "“Today's a great day to annoy your teammates with brilliant ideas.”"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 277,
+                                                lineNumber: 279,
                                                 columnNumber: 60
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 277,
+                                        lineNumber: 279,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2193,13 +2202,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "— Pip, definitely qualified"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 278,
+                                        lineNumber: 280,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 275,
+                                lineNumber: 277,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2212,12 +2221,12 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                             size: 24
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 281,
+                                            lineNumber: 283,
                                             columnNumber: 45
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 281,
+                                        lineNumber: 283,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2226,27 +2235,27 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "PERSONALITY QUEST"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 282,
+                                                lineNumber: 284,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                                 children: "Unlock your next evolution"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 282,
+                                                lineNumber: 284,
                                                 columnNumber: 51
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                                 children: "6 chaotic scenarios · +120 XP"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 282,
+                                                lineNumber: 284,
                                                 columnNumber: 94
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 282,
+                                        lineNumber: 284,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2256,30 +2265,30 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                             fill: "currentColor"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 283,
+                                            lineNumber: 285,
                                             columnNumber: 43
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 283,
+                                        lineNumber: 285,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 280,
+                                lineNumber: 282,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 274,
+                        lineNumber: 276,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 254,
+                lineNumber: 256,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -2294,19 +2303,19 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 22
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 289,
+                                    lineNumber: 291,
                                     columnNumber: 87
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 289,
+                                lineNumber: 291,
                                 columnNumber: 81
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "MY SQUAD"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 289,
+                                lineNumber: 291,
                                 columnNumber: 113
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -2316,14 +2325,14 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 289,
+                                lineNumber: 291,
                                 columnNumber: 136
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                 children: "3 vibe matches online"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 289,
+                                lineNumber: 291,
                                 columnNumber: 175
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2333,18 +2342,18 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         size: "xs"
                                     }, person.id, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 289,
+                                        lineNumber: 291,
                                         columnNumber: 269
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 289,
+                                lineNumber: 291,
                                 columnNumber: 205
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 289,
+                        lineNumber: 291,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2356,33 +2365,33 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 22
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 290,
+                                    lineNumber: 292,
                                     columnNumber: 86
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 290,
+                                lineNumber: 292,
                                 columnNumber: 80
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "TEAM GALAXY"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 290,
+                                lineNumber: 292,
                                 columnNumber: 114
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "Explore orbit"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 290,
+                                lineNumber: 292,
                                 columnNumber: 140
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                 children: "2 new connections"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 290,
+                                lineNumber: 292,
                                 columnNumber: 170
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2390,34 +2399,34 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 290,
+                                        lineNumber: 292,
                                         columnNumber: 224
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 290,
+                                        lineNumber: 292,
                                         columnNumber: 229
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 290,
+                                        lineNumber: 292,
                                         columnNumber: 234
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 290,
+                                        lineNumber: 292,
                                         columnNumber: 239
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 290,
+                                lineNumber: 292,
                                 columnNumber: 196
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 290,
+                        lineNumber: 292,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2429,51 +2438,51 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 22
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 291,
+                                    lineNumber: 293,
                                     columnNumber: 91
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 291,
+                                lineNumber: 293,
                                 columnNumber: 85
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "ACTIVE QUESTS"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 291,
+                                lineNumber: 293,
                                 columnNumber: 120
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "3 in progress"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 291,
+                                lineNumber: 293,
                                 columnNumber: 148
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                 children: "230 XP up for grabs"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 291,
+                                lineNumber: 293,
                                 columnNumber: 178
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "quest-bar",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 291,
+                                    lineNumber: 293,
                                     columnNumber: 233
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 291,
+                                lineNumber: 293,
                                 columnNumber: 206
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 291,
+                        lineNumber: 293,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2485,33 +2494,33 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     size: 22
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 292,
+                                    lineNumber: 294,
                                     columnNumber: 89
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 292,
+                                lineNumber: 294,
                                 columnNumber: 83
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "WEEKLY WRAPPED"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 292,
+                                lineNumber: 294,
                                 columnNumber: 116
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "Your week slapped"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 292,
+                                lineNumber: 294,
                                 columnNumber: 145
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                 children: "Ready to unwrap"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 292,
+                                lineNumber: 294,
                                 columnNumber: 179
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2519,19 +2528,19 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 children: "✦"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 292,
+                                lineNumber: 294,
                                 columnNumber: 203
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 292,
+                        lineNumber: 294,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 288,
+                lineNumber: 290,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -2546,20 +2555,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "ALGORITHM SAYS YES"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 296,
+                                        lineNumber: 298,
                                         columnNumber: 45
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "People you'll click with"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 296,
+                                        lineNumber: 298,
                                         columnNumber: 82
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 296,
+                                lineNumber: 298,
                                 columnNumber: 40
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2570,19 +2579,19 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 296,
+                                        lineNumber: 298,
                                         columnNumber: 184
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 296,
+                                lineNumber: 298,
                                 columnNumber: 126
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 296,
+                        lineNumber: 298,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2605,7 +2614,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 301,
+                                                lineNumber: 303,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Avatar, {
@@ -2613,7 +2622,7 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 size: "lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 301,
+                                                lineNumber: 303,
                                                 columnNumber: 65
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2621,13 +2630,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: person.emoji
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 301,
+                                                lineNumber: 303,
                                                 columnNumber: 101
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 300,
+                                        lineNumber: 302,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2639,20 +2648,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                         children: person.name
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 303,
+                                                        lineNumber: 305,
                                                         columnNumber: 48
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: person.role
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 303,
+                                                        lineNumber: 305,
                                                         columnNumber: 78
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 303,
+                                                lineNumber: 305,
                                                 columnNumber: 43
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2664,19 +2673,19 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                         children: "match"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 303,
+                                                        lineNumber: 305,
                                                         columnNumber: 158
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 303,
+                                                lineNumber: 305,
                                                 columnNumber: 110
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 303,
+                                        lineNumber: 305,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -2687,14 +2696,14 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 304,
+                                        lineNumber: 306,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: person.reason
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 305,
+                                        lineNumber: 307,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2707,14 +2716,14 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                         size: 15
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 306,
+                                                        lineNumber: 308,
                                                         columnNumber: 95
                                                     }, this),
                                                     " Appreciate"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 306,
+                                                lineNumber: 308,
                                                 columnNumber: 46
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2723,35 +2732,35 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                     size: 15
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 306,
+                                                    lineNumber: 308,
                                                     columnNumber: 176
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 306,
+                                                lineNumber: 308,
                                                 columnNumber: 134
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 306,
+                                        lineNumber: 308,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, person.id, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 299,
+                                lineNumber: 301,
                                 columnNumber: 13
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 297,
+                        lineNumber: 299,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 295,
+                lineNumber: 297,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -2769,20 +2778,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "DAILY SIDE QUEST"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 314,
+                                                lineNumber: 316,
                                                 columnNumber: 55
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "Touch grass, virtually"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 314,
+                                                lineNumber: 316,
                                                 columnNumber: 90
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 314,
+                                        lineNumber: 316,
                                         columnNumber: 50
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -2790,20 +2799,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "+80 XP"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 314,
+                                        lineNumber: 316,
                                         columnNumber: 127
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 314,
+                                lineNumber: 316,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Start a 15-minute coffee chat with someone outside your usual crew."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 315,
+                                lineNumber: 317,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2816,25 +2825,25 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 size: "sm"
                                             }, person.id, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 316,
+                                                lineNumber: 318,
                                                 columnNumber: 105
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 316,
+                                        lineNumber: 318,
                                         columnNumber: 41
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Jordan, Nia, and 4 others are game"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 316,
+                                        lineNumber: 318,
                                         columnNumber: 165
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 316,
+                                lineNumber: 318,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2845,20 +2854,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         size: 17
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 317,
+                                        lineNumber: 319,
                                         columnNumber: 133
                                     }, this),
                                     " Find my coffee match"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 317,
+                                lineNumber: 319,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 313,
+                        lineNumber: 315,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2873,20 +2882,20 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "SQUAD ACTIVITY"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 320,
+                                                lineNumber: 322,
                                                 columnNumber: 55
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "What's popping"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 320,
+                                                lineNumber: 322,
                                                 columnNumber: 88
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 320,
+                                        lineNumber: 322,
                                         columnNumber: 50
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2894,117 +2903,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 320,
+                                            lineNumber: 322,
                                             columnNumber: 130
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 320,
+                                        lineNumber: 322,
                                         columnNumber: 122
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 320,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "feed-item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "feed-emoji pink",
-                                        children: "💌"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 321,
-                                        columnNumber: 38
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Sarah"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 321,
-                                                columnNumber: 84
-                                            }, this),
-                                            " gave Mike a ",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
-                                                children: "Clutch Save"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 321,
-                                                columnNumber: 119
-                                            }, this),
-                                            " badge",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                children: "8 mins ago · 4 reactions"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 321,
-                                                columnNumber: 143
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 321,
-                                        columnNumber: 81
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                        onClick: ()=>notify("You added 🔥 to Sarah’s appreciation"),
-                                        children: "🔥"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 321,
-                                        columnNumber: 186
-                                    }, this)
-                                ]
-                            }, void 0, true, {
-                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 321,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "feed-item",
-                                children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "feed-emoji yellow",
-                                        children: "🏆"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 322,
-                                        columnNumber: 38
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Amina"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 322,
-                                                columnNumber: 86
-                                            }, this),
-                                            " unlocked Professional Yapper",
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                children: "32 mins ago · iconic"
-                                            }, void 0, false, {
-                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 322,
-                                                columnNumber: 137
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 322,
-                                        columnNumber: 83
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
-                                        onClick: ()=>notify("You added 👏 to Amina’s achievement"),
-                                        children: "👏"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 322,
-                                        columnNumber: 176
                                     }, this)
                                 ]
                             }, void 0, true, {
@@ -3016,8 +2921,8 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                 className: "feed-item",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "feed-emoji blue",
-                                        children: "☕"
+                                        className: "feed-emoji pink",
+                                        children: "💌"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
                                         lineNumber: 323,
@@ -3026,10 +2931,114 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Jordan + Nia"
+                                                children: "Sarah"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
                                                 lineNumber: 323,
+                                                columnNumber: 84
+                                            }, this),
+                                            " gave Mike a ",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
+                                                children: "Clutch Save"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                                lineNumber: 323,
+                                                columnNumber: 119
+                                            }, this),
+                                            " badge",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
+                                                children: "8 mins ago · 4 reactions"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                                lineNumber: 323,
+                                                columnNumber: 143
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 323,
+                                        columnNumber: 81
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                        onClick: ()=>notify("You added 🔥 to Sarah’s appreciation"),
+                                        children: "🔥"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 323,
+                                        columnNumber: 186
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                lineNumber: 323,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "feed-item",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "feed-emoji yellow",
+                                        children: "🏆"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 324,
+                                        columnNumber: 38
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                children: "Amina"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                                lineNumber: 324,
+                                                columnNumber: 86
+                                            }, this),
+                                            " unlocked Professional Yapper",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
+                                                children: "32 mins ago · iconic"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                                lineNumber: 324,
+                                                columnNumber: 137
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 324,
+                                        columnNumber: 83
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
+                                        onClick: ()=>notify("You added 👏 to Amina’s achievement"),
+                                        children: "👏"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 324,
+                                        columnNumber: 176
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                lineNumber: 324,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: "feed-item",
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                        className: "feed-emoji blue",
+                                        children: "☕"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                        lineNumber: 325,
+                                        columnNumber: 38
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: [
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                                children: "Jordan + Nia"
+                                            }, void 0, false, {
+                                                fileName: "[project]/src/app/tandem-dashboard.tsx",
+                                                lineNumber: 325,
                                                 columnNumber: 83
                                             }, this),
                                             " finished a coffee side quest",
@@ -3037,13 +3046,13 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                                 children: "1 hour ago · +80 XP each"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 323,
+                                                lineNumber: 325,
                                                 columnNumber: 141
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 323,
+                                        lineNumber: 325,
                                         columnNumber: 80
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3051,36 +3060,36 @@ function HomeView({ navigate, openQuiz, openMood, openAppreciation, notify, mood
                                         children: "✨"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 323,
+                                        lineNumber: 325,
                                         columnNumber: 184
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 323,
+                                lineNumber: 325,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 319,
+                        lineNumber: 321,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 312,
+                lineNumber: 314,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 234,
+        lineNumber: 236,
         columnNumber: 5
     }, this);
 }
 _c9 = HomeView;
-function ProfileView({ openQuiz, notify }) {
+function ProfileView({ openQuiz, notify, user, level: level1, archetype: archetype1 }) {
     _s1();
     const [theme, setTheme] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("cosmic");
     const [shared, setShared] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(true);
@@ -3097,7 +3106,7 @@ function ProfileView({ openQuiz, notify }) {
                             children: "has lore."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 335,
+                            lineNumber: 337,
                             columnNumber: 86
                         }, this)
                     ]
@@ -3111,19 +3120,19 @@ function ProfileView({ openQuiz, notify }) {
                             size: 16
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 335,
+                            lineNumber: 337,
                             columnNumber: 266
                         }, this),
                         " Evolve profile"
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 335,
+                    lineNumber: 337,
                     columnNumber: 212
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 335,
+                lineNumber: 337,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3136,7 +3145,7 @@ function ProfileView({ openQuiz, notify }) {
                                 className: "collectible-shine"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 338,
+                                lineNumber: 340,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3146,20 +3155,20 @@ function ProfileView({ openQuiz, notify }) {
                                         children: "✦"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 339,
+                                        lineNumber: 341,
                                         columnNumber: 41
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "017"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 339,
+                                        lineNumber: 341,
                                         columnNumber: 55
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 339,
+                                lineNumber: 341,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3167,7 +3176,7 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "RARE · CORE PERSONALITY"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 340,
+                                lineNumber: 342,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3177,79 +3186,85 @@ function ProfileView({ openQuiz, notify }) {
                                         className: "otter-halo"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 341,
+                                        lineNumber: 343,
                                         columnNumber: 38
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "🦦"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 341,
+                                        lineNumber: 343,
                                         columnNumber: 68
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                         children: "✦"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 341,
+                                        lineNumber: 343,
                                         columnNumber: 83
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                         children: "+"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 341,
+                                        lineNumber: 343,
                                         columnNumber: 91
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 341,
+                                lineNumber: 343,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "collectible-title",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                        children: "HAMMAD'S WORK TYPE"
-                                    }, void 0, false, {
+                                        children: [
+                                            user.name.split(" ")[0].toUpperCase(),
+                                            "'S WORK TYPE"
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 342,
+                                        lineNumber: 344,
                                         columnNumber: 46
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: [
-                                            "Calm Chaos",
+                                            archetype1.split(" ").slice(0, -1).join(" "),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 342,
-                                                columnNumber: 98
+                                                lineNumber: 344,
+                                                columnNumber: 166
                                             }, this),
-                                            "Controller"
+                                            archetype1.split(" ").slice(-1)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 342,
-                                        columnNumber: 84
+                                        lineNumber: 344,
+                                        columnNumber: 117
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "LEVEL 17"
-                                    }, void 0, false, {
+                                        children: [
+                                            "LEVEL ",
+                                            level1
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 342,
-                                        columnNumber: 119
+                                        lineNumber: 344,
+                                        columnNumber: 209
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 342,
+                                lineNumber: 344,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "“Turns impossible deadlines into somehow-finished projects.”"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 343,
+                                lineNumber: 345,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3262,25 +3277,25 @@ function ProfileView({ openQuiz, notify }) {
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 344,
+                                            lineNumber: 346,
                                             columnNumber: 41
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 344,
+                                        lineNumber: 346,
                                         columnNumber: 36
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "1,720 / 2,400 XP"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 344,
+                                        lineNumber: 346,
                                         columnNumber: 77
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 344,
+                                lineNumber: 346,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3290,33 +3305,33 @@ function ProfileView({ openQuiz, notify }) {
                                         children: "#00017"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 345,
+                                        lineNumber: 347,
                                         columnNumber: 40
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                         children: "TANDEM ORIGINAL"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 345,
+                                        lineNumber: 347,
                                         columnNumber: 59
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "2025"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 345,
+                                        lineNumber: 347,
                                         columnNumber: 81
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 345,
+                                lineNumber: 347,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 337,
+                        lineNumber: 339,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3332,18 +3347,18 @@ function ProfileView({ openQuiz, notify }) {
                                                 children: "H"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 348,
+                                                lineNumber: 350,
                                                 columnNumber: 90
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 348,
+                                                lineNumber: 350,
                                                 columnNumber: 104
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 348,
+                                        lineNumber: 350,
                                         columnNumber: 59
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3352,27 +3367,27 @@ function ProfileView({ openQuiz, notify }) {
                                                 children: "HAMMAD · PRODUCT"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 348,
+                                                lineNumber: 350,
                                                 columnNumber: 120
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "Calm Chaos Controller"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 348,
+                                                lineNumber: 350,
                                                 columnNumber: 155
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: "Strategy brain · builder energy · social battery on airplane mode"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 348,
+                                                lineNumber: 350,
                                                 columnNumber: 185
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 348,
+                                        lineNumber: 350,
                                         columnNumber: 115
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3384,7 +3399,7 @@ function ProfileView({ openQuiz, notify }) {
                                                     size: 15
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 348,
+                                                    lineNumber: 350,
                                                     columnNumber: 353
                                                 }, this),
                                                 " Squad can see this"
@@ -3395,7 +3410,7 @@ function ProfileView({ openQuiz, notify }) {
                                                     size: 15
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 348,
+                                                    lineNumber: 350,
                                                     columnNumber: 400
                                                 }, this),
                                                 " Only me"
@@ -3403,13 +3418,13 @@ function ProfileView({ openQuiz, notify }) {
                                         }, void 0, true)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 348,
+                                        lineNumber: 350,
                                         columnNumber: 263
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 348,
+                                lineNumber: 350,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3422,20 +3437,20 @@ function ProfileView({ openQuiz, notify }) {
                                                 children: "Your stat stack"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 350,
+                                                lineNumber: 352,
                                                 columnNumber: 42
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: "Based on your editable answers"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 350,
+                                                lineNumber: 352,
                                                 columnNumber: 66
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 350,
+                                        lineNumber: 352,
                                         columnNumber: 13
                                     }, this),
                                     __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$tandem$2d$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["profileStats"].map((stat)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3445,14 +3460,14 @@ function ProfileView({ openQuiz, notify }) {
                                                     children: stat.label
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 351,
+                                                    lineNumber: 353,
                                                     columnNumber: 84
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Stars, {
                                                     count: stat.score
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 351,
+                                                    lineNumber: 353,
                                                     columnNumber: 109
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
@@ -3463,19 +3478,19 @@ function ProfileView({ openQuiz, notify }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 351,
+                                                    lineNumber: 353,
                                                     columnNumber: 137
                                                 }, this)
                                             ]
                                         }, stat.label, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 351,
+                                            lineNumber: 353,
                                             columnNumber: 41
                                         }, this))
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 349,
+                                lineNumber: 351,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3490,12 +3505,12 @@ function ProfileView({ openQuiz, notify }) {
                                                     size: 22
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 354,
+                                                    lineNumber: 356,
                                                     columnNumber: 91
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 354,
+                                                lineNumber: 356,
                                                 columnNumber: 56
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3504,33 +3519,33 @@ function ProfileView({ openQuiz, notify }) {
                                                         children: "FAVOURITE WORK MODE"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 354,
+                                                        lineNumber: 356,
                                                         columnNumber: 127
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                         children: "Headphones On"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 354,
+                                                        lineNumber: 356,
                                                         columnNumber: 165
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         children: "Deep focus · async messages · snack nearby"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 354,
+                                                        lineNumber: 356,
                                                         columnNumber: 187
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 354,
+                                                lineNumber: 356,
                                                 columnNumber: 122
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 354,
+                                        lineNumber: 356,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3542,12 +3557,12 @@ function ProfileView({ openQuiz, notify }) {
                                                     size: 22
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 355,
+                                                    lineNumber: 357,
                                                     columnNumber: 91
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 355,
+                                                lineNumber: 357,
                                                 columnNumber: 56
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3556,51 +3571,51 @@ function ProfileView({ openQuiz, notify }) {
                                                         children: "MOTIVATED BY"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 355,
+                                                        lineNumber: 357,
                                                         columnNumber: 120
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                         children: "Visible progress"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 355,
+                                                        lineNumber: 357,
                                                         columnNumber: 151
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         children: "Clear wins · real impact · a tiny bit of hype"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 355,
+                                                        lineNumber: 357,
                                                         columnNumber: 176
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 355,
+                                                lineNumber: 357,
                                                 columnNumber: 115
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 355,
+                                        lineNumber: 357,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 353,
+                                lineNumber: 355,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 347,
+                        lineNumber: 349,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 336,
+                lineNumber: 338,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -3618,33 +3633,33 @@ function ProfileView({ openQuiz, notify }) {
                                                 children: "YOUR LORE"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 361,
+                                                lineNumber: 363,
                                                 columnNumber: 93
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "Traits unlocked"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 361,
+                                                lineNumber: 363,
                                                 columnNumber: 121
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 361,
+                                        lineNumber: 363,
                                         columnNumber: 88
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "5 / 8"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 361,
+                                        lineNumber: 363,
                                         columnNumber: 151
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 361,
+                                lineNumber: 363,
                                 columnNumber: 49
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3659,19 +3674,19 @@ function ProfileView({ openQuiz, notify }) {
                                                 children: "✦"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 361,
+                                                lineNumber: 363,
                                                 columnNumber: 310
                                             }, this),
                                             trait
                                         ]
                                     }, trait, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 361,
+                                        lineNumber: 363,
                                         columnNumber: 234
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 361,
+                                lineNumber: 363,
                                 columnNumber: 175
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3682,19 +3697,19 @@ function ProfileView({ openQuiz, notify }) {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 361,
+                                        lineNumber: 363,
                                         columnNumber: 397
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 361,
+                                lineNumber: 363,
                                 columnNumber: 347
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 361,
+                        lineNumber: 363,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3705,28 +3720,28 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "⚡"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 362,
+                                lineNumber: 364,
                                 columnNumber: 48
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Eyebrow, {
                                 children: "SUPERPOWER"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 362,
+                                lineNumber: 364,
                                 columnNumber: 83
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "Deadline Alchemy"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 362,
+                                lineNumber: 364,
                                 columnNumber: 112
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Turns impossible deadlines into somehow-finished projects."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 362,
+                                lineNumber: 364,
                                 columnNumber: 137
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3734,13 +3749,13 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "LEGENDARY SKILL"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 362,
+                                lineNumber: 364,
                                 columnNumber: 202
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 362,
+                        lineNumber: 364,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3751,28 +3766,28 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "🥪"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 363,
+                                lineNumber: 365,
                                 columnNumber: 51
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Eyebrow, {
                                 children: "ADORABLE WEAKNESS"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 363,
+                                lineNumber: 365,
                                 columnNumber: 87
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "Lunch Amnesia"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 363,
+                                lineNumber: 365,
                                 columnNumber: 123
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Will forget lunch while fixing something nobody else noticed."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 363,
+                                lineNumber: 365,
                                 columnNumber: 145
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3780,19 +3795,19 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "RELATABLE"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 363,
+                                lineNumber: 365,
                                 columnNumber: 213
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 363,
+                        lineNumber: 365,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 360,
+                lineNumber: 362,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -3807,20 +3822,20 @@ function ProfileView({ openQuiz, notify }) {
                                         children: "AI-POWERED · HUMAN-EDITABLE"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 367,
+                                        lineNumber: 369,
                                         columnNumber: 45
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "Your operating manual"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 367,
+                                        lineNumber: 369,
                                         columnNumber: 91
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 367,
+                                lineNumber: 369,
                                 columnNumber: 40
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3831,19 +3846,19 @@ function ProfileView({ openQuiz, notify }) {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 367,
+                                        lineNumber: 369,
                                         columnNumber: 229
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 367,
+                                lineNumber: 369,
                                 columnNumber: 127
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 367,
+                        lineNumber: 369,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3858,38 +3873,38 @@ function ProfileView({ openQuiz, notify }) {
                                         children: insight.emoji
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 368,
+                                        lineNumber: 370,
                                         columnNumber: 173
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         children: insight.title
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 368,
+                                        lineNumber: 370,
                                         columnNumber: 201
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: insight.copy
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 368,
+                                        lineNumber: 370,
                                         columnNumber: 225
                                     }, this)
                                 ]
                             }, insight.title, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 368,
+                                lineNumber: 370,
                                 columnNumber: 70
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 368,
+                        lineNumber: 370,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 366,
+                lineNumber: 368,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -3901,27 +3916,27 @@ function ProfileView({ openQuiz, notify }) {
                                 children: "UNLOCKED THEMES"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 371,
+                                lineNumber: 373,
                                 columnNumber: 57
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "Dress your card"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 371,
+                                lineNumber: 373,
                                 columnNumber: 91
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Your personality, your rules, your suspicious amount of purple."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 371,
+                                lineNumber: 373,
                                 columnNumber: 115
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 371,
+                        lineNumber: 373,
                         columnNumber: 52
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3955,7 +3970,7 @@ function ProfileView({ openQuiz, notify }) {
                                         }
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 371,
+                                        lineNumber: 373,
                                         columnNumber: 552
                                     }, this),
                                     item.label,
@@ -3963,30 +3978,30 @@ function ProfileView({ openQuiz, notify }) {
                                         size: 14
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 371,
+                                        lineNumber: 373,
                                         columnNumber: 626
                                     }, this)
                                 ]
                             }, item.id, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 371,
+                                lineNumber: 373,
                                 columnNumber: 403
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 371,
+                        lineNumber: 373,
                         columnNumber: 191
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 371,
+                lineNumber: 373,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 334,
+        lineNumber: 336,
         columnNumber: 5
     }, this);
 }
@@ -4007,7 +4022,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                             children: "work people."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 380,
+                            lineNumber: 382,
                             columnNumber: 65
                         }, this)
                     ]
@@ -4021,19 +4036,19 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                             size: 16
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 380,
+                            lineNumber: 382,
                             columnNumber: 290
                         }, this),
                         " Open team galaxy"
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 380,
+                    lineNumber: 382,
                     columnNumber: 220
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 380,
+                lineNumber: 382,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -4046,7 +4061,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 className: "best-match-bg"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 383,
+                                lineNumber: 385,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4056,14 +4071,14 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         size: 13
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 383,
+                                        lineNumber: 385,
                                         columnNumber: 74
                                     }, this),
                                     " BEST MATCH"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 383,
+                                lineNumber: 385,
                                 columnNumber: 44
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4074,13 +4089,13 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: "%"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 383,
+                                        lineNumber: 385,
                                         columnNumber: 161
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 383,
+                                lineNumber: 385,
                                 columnNumber: 114
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4091,7 +4106,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         size: "xl"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 384,
+                                        lineNumber: 386,
                                         columnNumber: 46
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4099,7 +4114,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: people[0].emoji
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 384,
+                                        lineNumber: 386,
                                         columnNumber: 85
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4108,33 +4123,33 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 children: people[0].role
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 384,
+                                                lineNumber: 386,
                                                 columnNumber: 149
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: people[0].name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 384,
+                                                lineNumber: 386,
                                                 columnNumber: 180
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: people[0].personality
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 384,
+                                                lineNumber: 386,
                                                 columnNumber: 205
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 384,
+                                        lineNumber: 386,
                                         columnNumber: 144
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 384,
+                                lineNumber: 386,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("blockquote", {
@@ -4145,7 +4160,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 385,
+                                lineNumber: 387,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4155,27 +4170,27 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: "⚡ Fast chemistry"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 386,
+                                        lineNumber: 388,
                                         columnNumber: 43
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "🎨 Creative contrast"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 386,
+                                        lineNumber: 388,
                                         columnNumber: 72
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "💬 Easy communication"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 386,
+                                        lineNumber: 388,
                                         columnNumber: 105
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 386,
+                                lineNumber: 388,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4189,7 +4204,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                     size: 16
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 387,
+                                                    lineNumber: 389,
                                                     columnNumber: 117
                                                 }, this),
                                                 " Coffee pending"
@@ -4200,7 +4215,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                     size: 16
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 387,
+                                                    lineNumber: 389,
                                                     columnNumber: 159
                                                 }, this),
                                                 " Start a coffee chat"
@@ -4208,7 +4223,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         }, void 0, true)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 387,
+                                        lineNumber: 389,
                                         columnNumber: 41
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4218,26 +4233,26 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 size: 16
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 387,
+                                                lineNumber: 389,
                                                 columnNumber: 264
                                             }, this),
                                             " Send hype"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 387,
+                                        lineNumber: 389,
                                         columnNumber: 212
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 387,
+                                lineNumber: 389,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 382,
+                        lineNumber: 384,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4251,7 +4266,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: "YOU"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 93
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4259,44 +4274,44 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: "SC"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 130
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 167
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 172
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 389,
+                                lineNumber: 391,
                                 columnNumber: 61
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Eyebrow, {
                                 children: "WHY IT WORKS"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 389,
+                                lineNumber: 391,
                                 columnNumber: 183
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "Idea energy meets visual magic"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 389,
+                                lineNumber: 391,
                                 columnNumber: 214
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "You bring calm direction when Sarah's ideas go interstellar. Sarah pulls you out of safe-mode when the idea needs more sparkle."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 389,
+                                lineNumber: 391,
                                 columnNumber: 253
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4308,7 +4323,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 children: "Ideas"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 430
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -4318,18 +4333,18 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 389,
+                                                    lineNumber: 391,
                                                     columnNumber: 451
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 448
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 425
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4338,7 +4353,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 children: "Execution"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 496
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -4348,18 +4363,18 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 389,
+                                                    lineNumber: 391,
                                                     columnNumber: 521
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 518
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 491
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4368,7 +4383,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 children: "Trust"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 566
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -4378,36 +4393,36 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 389,
+                                                    lineNumber: 391,
                                                     columnNumber: 587
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 389,
+                                                lineNumber: 391,
                                                 columnNumber: 584
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 389,
+                                        lineNumber: 391,
                                         columnNumber: 561
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 389,
+                                lineNumber: 391,
                                 columnNumber: 392
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 389,
+                        lineNumber: 391,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 381,
+                lineNumber: 383,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -4422,20 +4437,20 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                         children: "THE REST OF YOUR ORBIT"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 392,
+                                        lineNumber: 394,
                                         columnNumber: 78
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "More people worth knowing"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 392,
+                                        lineNumber: 394,
                                         columnNumber: 119
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 392,
+                                lineNumber: 394,
                                 columnNumber: 73
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4443,13 +4458,13 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 children: "No ranks. Just useful chemistry."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 392,
+                                lineNumber: 394,
                                 columnNumber: 159
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 392,
+                        lineNumber: 394,
                         columnNumber: 42
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4469,14 +4484,14 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 size: "lg"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 478
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: person.emoji
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 514
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4487,13 +4502,13 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 541
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 392,
+                                        lineNumber: 394,
                                         columnNumber: 350
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4503,14 +4518,14 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 children: person.tag
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 630
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 children: person.name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 657
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -4522,14 +4537,14 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 679
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: person.reason
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 744
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4542,20 +4557,20 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                                 size: 15
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                lineNumber: 392,
+                                                                lineNumber: 394,
                                                                 columnNumber: 895
                                                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$coffee$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Coffee$3e$__["Coffee"], {
                                                                 size: 15
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                lineNumber: 392,
+                                                                lineNumber: 394,
                                                                 columnNumber: 917
                                                             }, this),
                                                             connected.has(person.id) ? "Pinged" : "Coffee"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 392,
+                                                        lineNumber: 394,
                                                         columnNumber: 771
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4564,41 +4579,41 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                                             size: 15
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                            lineNumber: 392,
+                                                            lineNumber: 394,
                                                             columnNumber: 1044
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 392,
+                                                        lineNumber: 394,
                                                         columnNumber: 995
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 392,
+                                                lineNumber: 394,
                                                 columnNumber: 766
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 392,
+                                        lineNumber: 394,
                                         columnNumber: 597
                                     }, this)
                                 ]
                             }, person.id, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 392,
+                                lineNumber: 394,
                                 columnNumber: 301
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 392,
+                        lineNumber: 394,
                         columnNumber: 233
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 392,
+                lineNumber: 394,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -4609,7 +4624,7 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                         children: "😂"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 394,
+                        lineNumber: 396,
                         columnNumber: 50
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4618,27 +4633,27 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 children: "PLOT TWIST PAIRING"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 93
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "Meetings may become memes"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 130
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "You and Elena approach planning from opposite planets. With a clear agenda, the contrast is genuinely powerful. Without one… bring snacks."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 164
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 394,
+                        lineNumber: 396,
                         columnNumber: 88
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4649,14 +4664,14 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 size: "md"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 342
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: "×"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 394
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4664,20 +4679,20 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 children: "H"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 408
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                 children: "79%"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 446
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 394,
+                        lineNumber: 396,
                         columnNumber: 315
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4688,25 +4703,25 @@ function SquadView({ openAppreciation, connect, connected, navigate, people }) {
                                 size: 15
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 394,
+                                lineNumber: 396,
                                 columnNumber: 534
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 394,
+                        lineNumber: 396,
                         columnNumber: 462
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 394,
+                lineNumber: 396,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 379,
+        lineNumber: 381,
         columnNumber: 5
     }, this);
 }
@@ -4728,7 +4743,7 @@ function GalaxyView({ notify, people }) {
                             children: "team galaxy."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 404,
+                            lineNumber: 406,
                             columnNumber: 78
                         }, this)
                     ]
@@ -4743,14 +4758,14 @@ function GalaxyView({ notify, people }) {
                                     className: "purple"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 404,
+                                    lineNumber: 406,
                                     columnNumber: 274
                                 }, this),
                                 " Creators"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 404,
+                            lineNumber: 406,
                             columnNumber: 268
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4759,14 +4774,14 @@ function GalaxyView({ notify, people }) {
                                     className: "blue"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 404,
+                                    lineNumber: 406,
                                     columnNumber: 320
                                 }, this),
                                 " Builders"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 404,
+                            lineNumber: 406,
                             columnNumber: 314
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -4775,25 +4790,25 @@ function GalaxyView({ notify, people }) {
                                     className: "mint"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 404,
+                                    lineNumber: 406,
                                     columnNumber: 364
                                 }, this),
                                 " Connectors"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 404,
+                            lineNumber: 406,
                             columnNumber: 358
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 404,
+                    lineNumber: 406,
                     columnNumber: 237
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 404,
+                lineNumber: 406,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -4809,7 +4824,7 @@ function GalaxyView({ notify, people }) {
                                         size: 16
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 72
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -4817,13 +4832,13 @@ function GalaxyView({ notify, people }) {
                                         placeholder: "Find someone in the galaxy…"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 92
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 406,
+                                lineNumber: 408,
                                 columnNumber: 41
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4833,27 +4848,27 @@ function GalaxyView({ notify, people }) {
                                         children: "Compatibility"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 186
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         children: "Teams"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 235
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         children: "Energy"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 257
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 406,
+                                lineNumber: 408,
                                 columnNumber: 181
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -4863,20 +4878,20 @@ function GalaxyView({ notify, people }) {
                                         size: 16
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 406,
+                                        lineNumber: 408,
                                         columnNumber: 354
                                     }, this),
                                     " Find me"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 406,
+                                lineNumber: 408,
                                 columnNumber: 286
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 406,
+                        lineNumber: 408,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4896,12 +4911,12 @@ function GalaxyView({ notify, people }) {
                                         }
                                     }, index, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 408,
+                                        lineNumber: 410,
                                         columnNumber: 100
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 408,
+                                lineNumber: 410,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -4919,7 +4934,7 @@ function GalaxyView({ notify, people }) {
                                                     stopOpacity: ".55"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 409,
+                                                    lineNumber: 411,
                                                     columnNumber: 145
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("stop", {
@@ -4928,18 +4943,18 @@ function GalaxyView({ notify, people }) {
                                                     stopOpacity: ".18"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 409,
+                                                    lineNumber: 411,
                                                     columnNumber: 191
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 409,
+                                            lineNumber: 411,
                                             columnNumber: 115
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 409,
+                                        lineNumber: 411,
                                         columnNumber: 109
                                     }, this),
                                     people.map((person)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("line", {
@@ -4949,7 +4964,7 @@ function GalaxyView({ notify, people }) {
                                             y2: person.y
                                         }, person.id, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 409,
+                                            lineNumber: 411,
                                             columnNumber: 296
                                         }, this)),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("line", {
@@ -4959,7 +4974,7 @@ function GalaxyView({ notify, people }) {
                                         y2: people[1]?.y || 60
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 409,
+                                        lineNumber: 411,
                                         columnNumber: 366
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("line", {
@@ -4969,13 +4984,13 @@ function GalaxyView({ notify, people }) {
                                         y2: people[4]?.y || 70
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 409,
+                                        lineNumber: 411,
                                         columnNumber: 470
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 409,
+                                lineNumber: 411,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -4985,25 +5000,25 @@ function GalaxyView({ notify, people }) {
                                         children: "H"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 410,
+                                        lineNumber: 412,
                                         columnNumber: 39
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                         children: "YOU"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 410,
+                                        lineNumber: 412,
                                         columnNumber: 53
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 410,
+                                        lineNumber: 412,
                                         columnNumber: 63
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 410,
+                                lineNumber: 412,
                                 columnNumber: 11
                             }, this),
                             people.map((person, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].button, {
@@ -5043,27 +5058,27 @@ function GalaxyView({ notify, people }) {
                                             size: index < 2 ? "lg" : "md"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 412,
+                                            lineNumber: 414,
                                             columnNumber: 538
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: person.emoji
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 412,
+                                            lineNumber: 414,
                                             columnNumber: 595
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                             children: person.name.split(" ")[0]
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 412,
+                                            lineNumber: 414,
                                             columnNumber: 622
                                         }, this)
                                     ]
                                 }, person.id, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 412,
+                                    lineNumber: 414,
                                     columnNumber: 13
                                 }, this)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -5071,7 +5086,7 @@ function GalaxyView({ notify, people }) {
                                 children: "CREATIVE CLOUD"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 414,
+                                lineNumber: 416,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -5079,7 +5094,7 @@ function GalaxyView({ notify, people }) {
                                 children: "BUILDER BELT"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 414,
+                                lineNumber: 416,
                                 columnNumber: 72
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -5087,7 +5102,7 @@ function GalaxyView({ notify, people }) {
                                 children: "SOCIAL SOLAR SYSTEM"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 414,
+                                lineNumber: 416,
                                 columnNumber: 131
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5097,20 +5112,20 @@ function GalaxyView({ notify, people }) {
                                         size: 14
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 415,
+                                        lineNumber: 417,
                                         columnNumber: 37
                                     }, this),
                                     " Drag any teammate"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 415,
+                                lineNumber: 417,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 407,
+                        lineNumber: 409,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -5137,12 +5152,12 @@ function GalaxyView({ notify, people }) {
                                         size: 16
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 417,
+                                        lineNumber: 419,
                                         columnNumber: 269
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 417,
+                                    lineNumber: 419,
                                     columnNumber: 202
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5153,14 +5168,14 @@ function GalaxyView({ notify, people }) {
                                             size: "lg"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 329
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: selected.emoji
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 367
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5173,33 +5188,33 @@ function GalaxyView({ notify, people }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 401
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                     children: selected.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 449
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                     children: selected.personality
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 473
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 396
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 417,
+                                    lineNumber: 419,
                                     columnNumber: 293
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5216,33 +5231,33 @@ function GalaxyView({ notify, people }) {
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 604
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                     children: "match"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 638
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 544
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                             children: selected.reason
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 673
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 417,
+                                    lineNumber: 419,
                                     columnNumber: 514
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5252,7 +5267,7 @@ function GalaxyView({ notify, people }) {
                                             children: "Shared orbit"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 733
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5261,33 +5276,33 @@ function GalaxyView({ notify, people }) {
                                                     children: "Deep work"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 763
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                                     children: "Clear feedback"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 779
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                                     children: "Curious brains"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 417,
+                                                    lineNumber: 419,
                                                     columnNumber: 800
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 758
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 417,
+                                    lineNumber: 419,
                                     columnNumber: 703
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5297,43 +5312,43 @@ function GalaxyView({ notify, people }) {
                                             size: 16
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 417,
+                                            lineNumber: 419,
                                             columnNumber: 908
                                         }, this),
                                         " Send a coffee signal"
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 417,
+                                    lineNumber: 419,
                                     columnNumber: 833
                                 }, this)
                             ]
                         }, selected.id, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 417,
+                            lineNumber: 419,
                             columnNumber: 51
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 417,
+                        lineNumber: 419,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 405,
+                lineNumber: 407,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 403,
+        lineNumber: 405,
         columnNumber: 5
     }, this);
 }
 _s2(GalaxyView, "kxcm0htDtL0pbqPsdeWYjsayYv8=");
 _c12 = GalaxyView;
-function ChallengesView({ notify, xp }) {
+function ChallengesView({ notify, xp, level: level1 }) {
     _s3();
     const [claimed, setClaimed] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(new Set());
     const claim = (index, amount)=>{
@@ -5353,7 +5368,7 @@ function ChallengesView({ notify, xp }) {
                             children: "Main-character growth."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 428,
+                            lineNumber: 430,
                             columnNumber: 75
                         }, this)
                     ]
@@ -5368,12 +5383,12 @@ function ChallengesView({ notify, xp }) {
                                 fill: "currentColor"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 428,
+                                lineNumber: 430,
                                 columnNumber: 262
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 428,
+                            lineNumber: 430,
                             columnNumber: 256
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5382,7 +5397,7 @@ function ChallengesView({ notify, xp }) {
                                     children: "YOUR WALLET"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 428,
+                                    lineNumber: 430,
                                     columnNumber: 311
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
@@ -5392,24 +5407,24 @@ function ChallengesView({ notify, xp }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 428,
+                                    lineNumber: 430,
                                     columnNumber: 337
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 428,
+                            lineNumber: 430,
                             columnNumber: 306
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 428,
+                    lineNumber: 430,
                     columnNumber: 229
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 428,
+                lineNumber: 430,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -5423,32 +5438,35 @@ function ChallengesView({ notify, xp }) {
                                 children: "SEASON 04 · COSMIC COWORKERS"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
+                                lineNumber: 431,
                                 columnNumber: 80
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                                children: "Level 17"
-                            }, void 0, false, {
+                                children: [
+                                    "Level ",
+                                    level1
+                                ]
+                            }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
+                                lineNumber: 431,
                                 columnNumber: 146
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: [
-                                    "680 XP until you unlock the ",
+                                    "Play quests to unlock the ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         children: "Neon Nebula"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 194
+                                        lineNumber: 431,
+                                        columnNumber: 197
                                     }, this),
                                     " card theme."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
-                                columnNumber: 163
+                                lineNumber: 431,
+                                columnNumber: 168
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "season-progress",
@@ -5456,35 +5474,38 @@ function ChallengesView({ notify, xp }) {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                             style: {
-                                                width: "72%"
+                                                width: `${xp % 1000 / 10}%`
                                             }
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 429,
-                                            columnNumber: 274
+                                            lineNumber: 431,
+                                            columnNumber: 277
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 271
+                                        lineNumber: 431,
+                                        columnNumber: 274
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "1,720 / 2,400"
-                                    }, void 0, false, {
+                                        children: [
+                                            xp.toLocaleString(),
+                                            " XP"
+                                        ]
+                                    }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 308
+                                        lineNumber: 431,
+                                        columnNumber: 328
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
-                                columnNumber: 238
+                                lineNumber: 431,
+                                columnNumber: 241
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 429,
+                        lineNumber: 431,
                         columnNumber: 51
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5495,21 +5516,21 @@ function ChallengesView({ notify, xp }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 408
+                                        lineNumber: 431,
+                                        columnNumber: 439
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                         children: "✦"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 413
+                                        lineNumber: 431,
+                                        columnNumber: 444
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
-                                columnNumber: 377
+                                lineNumber: 431,
+                                columnNumber: 408
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 children: [
@@ -5517,41 +5538,41 @@ function ChallengesView({ notify, xp }) {
                                         children: "NEXT REWARD"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 433
+                                        lineNumber: 431,
+                                        columnNumber: 464
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         children: "Neon Nebula"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 459
+                                        lineNumber: 431,
+                                        columnNumber: 490
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                         children: "Profile theme"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 429,
-                                        columnNumber: 487
+                                        lineNumber: 431,
+                                        columnNumber: 518
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
-                                columnNumber: 428
+                                lineNumber: 431,
+                                columnNumber: 459
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2d$keyhole$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LockKeyhole$3e$__["LockKeyhole"], {
                                 size: 17
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 429,
-                                columnNumber: 515
+                                lineNumber: 431,
+                                columnNumber: 546
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 429,
-                        columnNumber: 346
+                        lineNumber: 431,
+                        columnNumber: 377
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "season-mascot",
@@ -5559,18 +5580,18 @@ function ChallengesView({ notify, xp }) {
                             mood: "party"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 429,
-                            columnNumber: 577
+                            lineNumber: 431,
+                            columnNumber: 608
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 429,
-                        columnNumber: 546
+                        lineNumber: 431,
+                        columnNumber: 577
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 429,
+                lineNumber: 431,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -5585,20 +5606,20 @@ function ChallengesView({ notify, xp }) {
                                         children: "THIS WEEK"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 78
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "Choose your side quests"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 106
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 430,
+                                lineNumber: 432,
                                 columnNumber: 73
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -5606,13 +5627,13 @@ function ChallengesView({ notify, xp }) {
                                 children: "Do what feels good. Skip what doesn't."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 430,
+                                lineNumber: 432,
                                 columnNumber: 144
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 430,
+                        lineNumber: 432,
                         columnNumber: 42
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5630,7 +5651,7 @@ function ChallengesView({ notify, xp }) {
                                                 children: challenge.emoji
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 430,
+                                                lineNumber: 432,
                                                 columnNumber: 450
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -5641,27 +5662,27 @@ function ChallengesView({ notify, xp }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 430,
+                                                lineNumber: 432,
                                                 columnNumber: 480
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 419
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         children: challenge.title
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 511
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: challenge.copy
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 537
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5674,12 +5695,12 @@ function ChallengesView({ notify, xp }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 430,
+                                                    lineNumber: 432,
                                                     columnNumber: 601
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 430,
+                                                lineNumber: 432,
                                                 columnNumber: 596
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -5689,13 +5710,13 @@ function ChallengesView({ notify, xp }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 430,
+                                                lineNumber: 432,
                                                 columnNumber: 656
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 560
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5708,7 +5729,7 @@ function ChallengesView({ notify, xp }) {
                                                     size: 16
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 430,
+                                                    lineNumber: 432,
                                                     columnNumber: 849
                                                 }, this),
                                                 " Added to quests"
@@ -5719,7 +5740,7 @@ function ChallengesView({ notify, xp }) {
                                                     size: 16
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 430,
+                                                    lineNumber: 432,
                                                     columnNumber: 892
                                                 }, this),
                                                 " Start quest"
@@ -5727,24 +5748,24 @@ function ChallengesView({ notify, xp }) {
                                         }, void 0, true)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 430,
+                                        lineNumber: 432,
                                         columnNumber: 696
                                     }, this)
                                 ]
                             }, challenge.title, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 430,
+                                lineNumber: 432,
                                 columnNumber: 299
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 430,
+                        lineNumber: 432,
                         columnNumber: 229
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 430,
+                lineNumber: 432,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -5759,20 +5780,20 @@ function ChallengesView({ notify, xp }) {
                                         children: "TROPHY CABINET"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 78
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "Your questionable achievements"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 111
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 431,
+                                lineNumber: 433,
                                 columnNumber: 73
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5783,19 +5804,19 @@ function ChallengesView({ notify, xp }) {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 229
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 431,
+                                lineNumber: 433,
                                 columnNumber: 156
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 431,
+                        lineNumber: 433,
                         columnNumber: 42
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5811,7 +5832,7 @@ function ChallengesView({ notify, xp }) {
                                         children: achievement.unlocked ? achievement.emoji : "❔"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 520
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5820,50 +5841,50 @@ function ChallengesView({ notify, xp }) {
                                                 children: achievement.name
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 431,
+                                                lineNumber: 433,
                                                 columnNumber: 586
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: achievement.note
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 431,
+                                                lineNumber: 433,
                                                 columnNumber: 613
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 581
                                     }, this),
                                     achievement.unlocked ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$check$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Check$3e$__["Check"], {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 668
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$lock$2d$keyhole$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__LockKeyhole$3e$__["LockKeyhole"], {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 431,
+                                        lineNumber: 433,
                                         columnNumber: 690
                                     }, this)
                                 ]
                             }, achievement.name, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 431,
+                                lineNumber: 433,
                                 columnNumber: 336
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 431,
+                        lineNumber: 433,
                         columnNumber: 268
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 431,
+                lineNumber: 433,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -5892,20 +5913,20 @@ function ChallengesView({ notify, xp }) {
                                 children: "🎁"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 432,
+                                lineNumber: 434,
                                 columnNumber: 83
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                 children: "?"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 432,
+                                lineNumber: 434,
                                 columnNumber: 208
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 432,
+                        lineNumber: 434,
                         columnNumber: 51
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -5914,27 +5935,27 @@ function ChallengesView({ notify, xp }) {
                                 children: "8 DAY STREAK REWARD"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 432,
+                                lineNumber: 434,
                                 columnNumber: 227
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                 children: "A mystery box is judging you"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 432,
+                                lineNumber: 434,
                                 columnNumber: 265
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: "Come back tomorrow to find out if it contains a rare theme or one very fancy sticker."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 432,
+                                lineNumber: 434,
                                 columnNumber: 302
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 432,
+                        lineNumber: 434,
                         columnNumber: 222
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -5942,25 +5963,25 @@ function ChallengesView({ notify, xp }) {
                         children: "Opens tomorrow"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 432,
+                        lineNumber: 434,
                         columnNumber: 400
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 432,
+                lineNumber: 434,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 427,
+        lineNumber: 429,
         columnNumber: 5
     }, this);
 }
 _s3(ChallengesView, "qpBDsuNV7CYA5dCsAvUAOa62cUo=");
 _c13 = ChallengesView;
-function WrappedView({ notify, user }) {
+function WrappedView({ notify, user, level: level1, archetype: archetype1 }) {
     _s4();
     const [slide, setSlide] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
     const slides = [
@@ -6014,7 +6035,7 @@ function WrappedView({ notify, user }) {
                             children: "Wrapped."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 449,
+                            lineNumber: 451,
                             columnNumber: 61
                         }, this)
                     ]
@@ -6028,19 +6049,19 @@ function WrappedView({ notify, user }) {
                             size: 16
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 449,
+                            lineNumber: 451,
                             columnNumber: 294
                         }, this),
                         " Share with squad"
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 449,
+                    lineNumber: 451,
                     columnNumber: 192
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 449,
+                lineNumber: 451,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -6050,7 +6071,7 @@ function WrappedView({ notify, user }) {
                         className: "wrapped-grid-bg"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 451,
+                        lineNumber: 453,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].div, {
@@ -6080,27 +6101,27 @@ function WrappedView({ notify, user }) {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Brand, {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 453,
+                                        lineNumber: 455,
                                         columnNumber: 42
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "WEEK 20"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 453,
+                                        lineNumber: 455,
                                         columnNumber: 51
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Eyebrow, {
                                 children: current.kicker
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 77
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].span, {
@@ -6125,7 +6146,7 @@ function WrappedView({ notify, user }) {
                                 children: current.emoji
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 112
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -6133,19 +6154,19 @@ function WrappedView({ notify, user }) {
                                         children: line
                                     }, line, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 453,
+                                        lineNumber: 455,
                                         columnNumber: 329
                                     }, this))
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 286
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 children: current.note
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 366
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6155,7 +6176,7 @@ function WrappedView({ notify, user }) {
                                         children: user.name.charAt(0)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 453,
+                                        lineNumber: 455,
                                         columnNumber: 419
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6164,32 +6185,36 @@ function WrappedView({ notify, user }) {
                                                 children: user.name.split(" ")[0]
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 453,
+                                                lineNumber: 455,
                                                 columnNumber: 458
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                children: "Calm Chaos Controller · Lvl 17"
-                                            }, void 0, false, {
+                                                children: [
+                                                    archetype1,
+                                                    " · Lvl ",
+                                                    level1
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 453,
+                                                lineNumber: 455,
                                                 columnNumber: 490
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 453,
+                                        lineNumber: 455,
                                         columnNumber: 453
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 453,
+                                lineNumber: 455,
                                 columnNumber: 387
                             }, this)
                         ]
                     }, slide, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 452,
+                        lineNumber: 454,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6200,17 +6225,17 @@ function WrappedView({ notify, user }) {
                                 className: index === slide ? "active" : "",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 455,
+                                    lineNumber: 457,
                                     columnNumber: 201
                                 }, this)
                             }, index, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 455,
+                                lineNumber: 457,
                                 columnNumber: 65
                             }, this))
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 455,
+                        lineNumber: 457,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -6220,12 +6245,12 @@ function WrappedView({ notify, user }) {
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 456,
+                            lineNumber: 458,
                             columnNumber: 118
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 456,
+                        lineNumber: 458,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -6235,18 +6260,18 @@ function WrappedView({ notify, user }) {
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 456,
+                            lineNumber: 458,
                             columnNumber: 243
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 456,
+                        lineNumber: 458,
                         columnNumber: 150
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 450,
+                lineNumber: 452,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6258,27 +6283,27 @@ function WrappedView({ notify, user }) {
                                 children: "☕"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 45
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "COFFEES"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 59
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "18"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 81
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 458,
+                        lineNumber: 460,
                         columnNumber: 40
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6287,27 +6312,27 @@ function WrappedView({ notify, user }) {
                                 children: "🎯"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 111
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "TASKS LANDED"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 126
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "12"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 153
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 458,
+                        lineNumber: 460,
                         columnNumber: 106
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6316,27 +6341,27 @@ function WrappedView({ notify, user }) {
                                 children: "🔥"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 183
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "STREAK"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 198
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "8 days"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 219
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 458,
+                        lineNumber: 460,
                         columnNumber: 178
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6345,39 +6370,39 @@ function WrappedView({ notify, user }) {
                                 children: "💌"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 253
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                 children: "HYPE SENT"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 268
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                 children: "6 cards"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 458,
+                                lineNumber: 460,
                                 columnNumber: 292
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 458,
+                        lineNumber: 460,
                         columnNumber: 248
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 458,
+                lineNumber: 460,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 448,
+        lineNumber: 450,
         columnNumber: 5
     }, this);
 }
@@ -6397,7 +6422,7 @@ function ManagerView({ notify, people }) {
                             children: "Not people scores."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 466,
+                            lineNumber: 468,
                             columnNumber: 73
                         }, this)
                     ]
@@ -6411,19 +6436,19 @@ function ManagerView({ notify, people }) {
                             size: 16
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 466,
+                            lineNumber: 468,
                             columnNumber: 335
                         }, this),
                         " Draft team summary"
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 466,
+                    lineNumber: 468,
                     columnNumber: 216
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 466,
+                lineNumber: 468,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6433,7 +6458,7 @@ function ManagerView({ notify, people }) {
                         size: 21
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 467,
+                        lineNumber: 469,
                         columnNumber: 38
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6442,20 +6467,20 @@ function ManagerView({ notify, people }) {
                                 children: "Built for better teamwork—not performance evaluation."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 467,
+                                lineNumber: 469,
                                 columnNumber: 68
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: "Only aggregated, consented patterns appear here. Individual answers, moods, and private wellbeing signals never do."
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 467,
+                                lineNumber: 469,
                                 columnNumber: 138
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 467,
+                        lineNumber: 469,
                         columnNumber: 63
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -6463,13 +6488,13 @@ function ManagerView({ notify, people }) {
                         children: "View privacy rules"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 467,
+                        lineNumber: 469,
                         columnNumber: 272
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 467,
+                lineNumber: 469,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -6485,12 +6510,12 @@ function ManagerView({ notify, people }) {
                                     size: 21
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 468,
+                                    lineNumber: 470,
                                     columnNumber: 219
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 468,
+                                lineNumber: 470,
                                 columnNumber: 213
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6499,38 +6524,38 @@ function ManagerView({ notify, people }) {
                                         children: signal.label
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 468,
+                                        lineNumber: 470,
                                         columnNumber: 249
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                         children: signal.value
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 468,
+                                        lineNumber: 470,
                                         columnNumber: 278
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: signal.note
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 468,
+                                        lineNumber: 470,
                                         columnNumber: 301
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 468,
+                                lineNumber: 470,
                                 columnNumber: 244
                             }, this)
                         ]
                     }, signal.label, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 468,
+                        lineNumber: 470,
                         columnNumber: 99
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 468,
+                lineNumber: 470,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -6548,20 +6573,20 @@ function ManagerView({ notify, people }) {
                                                 children: "TEAM RANGE · 11 OPTED IN"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 95
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "Collaboration spectrum"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 138
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 90
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -6569,13 +6594,13 @@ function ManagerView({ notify, people }) {
                                         children: "No ideal side"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 175
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 470,
+                                lineNumber: 472,
                                 columnNumber: 51
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6589,20 +6614,20 @@ function ManagerView({ notify, people }) {
                                                         children: "Think out loud"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 271
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: "Reflect first"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 298
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 266
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -6613,25 +6638,25 @@ function ManagerView({ notify, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 470,
+                                                    lineNumber: 472,
                                                     columnNumber: 352
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 330
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                 children: "Nicely balanced"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 385
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 261
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6642,20 +6667,20 @@ function ManagerView({ notify, people }) {
                                                         children: "Move fast"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 431
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: "Plan carefully"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 453
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 426
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -6666,25 +6691,25 @@ function ManagerView({ notify, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 470,
+                                                    lineNumber: 472,
                                                     columnNumber: 506
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 486
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                 children: "Slightly spontaneous"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 539
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 421
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6695,20 +6720,20 @@ function ManagerView({ notify, people }) {
                                                         children: "Talk it through"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 590
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: "Write it down"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 618
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 585
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -6719,25 +6744,25 @@ function ManagerView({ notify, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 470,
+                                                    lineNumber: 472,
                                                     columnNumber: 670
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 650
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                 children: "Async-friendly"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 703
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 580
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6748,20 +6773,20 @@ function ManagerView({ notify, people }) {
                                                         children: "Flexible flow"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 748
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: "Clear structure"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 470,
+                                                        lineNumber: 472,
                                                         columnNumber: 774
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 743
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
@@ -6772,37 +6797,37 @@ function ManagerView({ notify, people }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 470,
+                                                    lineNumber: 472,
                                                     columnNumber: 828
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 808
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                 children: "Balanced structure"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 470,
+                                                lineNumber: 472,
                                                 columnNumber: 861
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 472,
                                         columnNumber: 738
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 470,
+                                lineNumber: 472,
                                 columnNumber: 230
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 470,
+                        lineNumber: 472,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6817,20 +6842,20 @@ function ManagerView({ notify, people }) {
                                                 children: "PERSONALITY MIX"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 96
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                                 children: "Your team's superpowers"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 130
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 471,
+                                        lineNumber: 473,
                                         columnNumber: 91
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -6838,18 +6863,18 @@ function ManagerView({ notify, people }) {
                                             size: 17
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 471,
+                                            lineNumber: 473,
                                             columnNumber: 181
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 471,
+                                        lineNumber: 473,
                                         columnNumber: 173
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 471,
+                                lineNumber: 473,
                                 columnNumber: 52
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6863,25 +6888,25 @@ function ManagerView({ notify, people }) {
                                                     children: "11"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 471,
+                                                    lineNumber: 473,
                                                     columnNumber: 280
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                     children: "profiles"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 471,
+                                                    lineNumber: 473,
                                                     columnNumber: 299
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 471,
+                                            lineNumber: 473,
                                             columnNumber: 274
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 471,
+                                        lineNumber: 473,
                                         columnNumber: 251
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -6893,7 +6918,7 @@ function ManagerView({ notify, people }) {
                                                         className: "purple"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 369
                                                     }, this),
                                                     " Builders ",
@@ -6901,13 +6926,13 @@ function ManagerView({ notify, people }) {
                                                         children: "4"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 403
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 363
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -6916,7 +6941,7 @@ function ManagerView({ notify, people }) {
                                                         className: "pink"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 424
                                                     }, this),
                                                     " Explorers ",
@@ -6924,13 +6949,13 @@ function ManagerView({ notify, people }) {
                                                         children: "3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 457
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 418
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -6939,7 +6964,7 @@ function ManagerView({ notify, people }) {
                                                         className: "mint"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 478
                                                     }, this),
                                                     " Connectors ",
@@ -6947,13 +6972,13 @@ function ManagerView({ notify, people }) {
                                                         children: "2"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 512
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 472
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -6962,7 +6987,7 @@ function ManagerView({ notify, people }) {
                                                         className: "yellow"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 533
                                                     }, this),
                                                     " Strategists ",
@@ -6970,25 +6995,25 @@ function ManagerView({ notify, people }) {
                                                         children: "2"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 471,
+                                                        lineNumber: 473,
                                                         columnNumber: 570
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 473,
                                                 columnNumber: 527
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 471,
+                                        lineNumber: 473,
                                         columnNumber: 335
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 471,
+                                lineNumber: 473,
                                 columnNumber: 224
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -6998,26 +7023,26 @@ function ManagerView({ notify, people }) {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 471,
+                                        lineNumber: 473,
                                         columnNumber: 621
                                     }, this),
                                     " Strong execution range with room for one more social connector on cross-team projects."
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 471,
+                                lineNumber: 473,
                                 columnNumber: 597
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 471,
+                        lineNumber: 473,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 469,
+                lineNumber: 471,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -7032,20 +7057,20 @@ function ManagerView({ notify, people }) {
                                         children: "AI SUGGESTIONS · TRANSPARENT REASONS"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 78
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                         children: "Collaboration sparks"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 133
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 473,
+                                lineNumber: 475,
                                 columnNumber: 73
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7056,19 +7081,19 @@ function ManagerView({ notify, people }) {
                                         size: 15
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 292
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 473,
+                                lineNumber: 475,
                                 columnNumber: 168
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 473,
+                        lineNumber: 475,
                         columnNumber: 42
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7082,7 +7107,7 @@ function ManagerView({ notify, people }) {
                                         children: "🧪"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 396
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7091,21 +7116,21 @@ function ManagerView({ notify, people }) {
                                                 children: "PROJECT PAIRING"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 451
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 children: "Sarah + Mike could ship magic"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 481
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: "Sarah explores wide; Mike turns promising directions into quick experiments."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 519
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7116,14 +7141,14 @@ function ManagerView({ notify, people }) {
                                                         size: "sm"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 636
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                         children: "+"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 675
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Avatar, {
@@ -7131,13 +7156,13 @@ function ManagerView({ notify, people }) {
                                                         size: "sm"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 689
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 602
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7148,25 +7173,25 @@ function ManagerView({ notify, people }) {
                                                         size: 14
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 846
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 734
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 446
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 473,
+                                lineNumber: 475,
                                 columnNumber: 364
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
@@ -7177,7 +7202,7 @@ function ManagerView({ notify, people }) {
                                         children: "💡"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 927
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7186,21 +7211,21 @@ function ManagerView({ notify, people }) {
                                                 children: "INNOVATION SQUAD"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 980
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 children: "Three complementary brains"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1011
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: "A creator, builder, and connector for the next early-stage concept sprint."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1046
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7214,12 +7239,12 @@ function ManagerView({ notify, people }) {
                                                         size: "sm"
                                                     }, person.id, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 1212
                                                     }, this))
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1127
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7230,25 +7255,25 @@ function ManagerView({ notify, people }) {
                                                         size: 14
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 1374
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1272
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 975
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 473,
+                                lineNumber: 475,
                                 columnNumber: 895
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("article", {
@@ -7259,7 +7284,7 @@ function ManagerView({ notify, people }) {
                                         children: "🛟"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 1455
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7268,21 +7293,21 @@ function ManagerView({ notify, people }) {
                                                 children: "TEAM HABIT"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1510
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                 children: "Add one async checkpoint"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1535
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 children: "Most teammates prefer context before decisions. A pre-read could unlock quieter ideas."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1568
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7290,7 +7315,7 @@ function ManagerView({ notify, people }) {
                                                 children: "10 min pre-read · editable"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1661
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7301,43 +7326,43 @@ function ManagerView({ notify, people }) {
                                                         size: 14
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 473,
+                                                        lineNumber: 475,
                                                         columnNumber: 1816
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 475,
                                                 columnNumber: 1721
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 473,
+                                        lineNumber: 475,
                                         columnNumber: 1505
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 473,
+                                lineNumber: 475,
                                 columnNumber: 1423
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 473,
+                        lineNumber: 475,
                         columnNumber: 331
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 473,
+                lineNumber: 475,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 465,
+        lineNumber: 467,
         columnNumber: 5
     }, this);
 }
@@ -7410,23 +7435,23 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                 size: 20
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 497,
+                                lineNumber: 499,
                                 columnNumber: 106
                             }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
                                 size: 20
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 497,
+                                lineNumber: 499,
                                 columnNumber: 132
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 497,
+                            lineNumber: 499,
                             columnNumber: 17
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Brand, {}, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 497,
+                            lineNumber: 499,
                             columnNumber: 157
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7440,7 +7465,7 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 497,
+                                    lineNumber: 499,
                                     columnNumber: 193
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7449,30 +7474,30 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                         size: 17
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 497,
+                                        lineNumber: 499,
                                         columnNumber: 308
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$volume$2d$x$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__VolumeX$3e$__["VolumeX"], {
                                         size: 17
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 497,
+                                        lineNumber: 499,
                                         columnNumber: 332
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 497,
+                                    lineNumber: 499,
                                     columnNumber: 241
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 497,
+                            lineNumber: 499,
                             columnNumber: 166
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 497,
+                    lineNumber: 499,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7483,17 +7508,17 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                         },
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {}, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 498,
+                            lineNumber: 500,
                             columnNumber: 110
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 498,
+                        lineNumber: 500,
                         columnNumber: 40
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 498,
+                    lineNumber: 500,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7506,7 +7531,7 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                     mood: picked ? "party" : "thinking"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 499,
+                                    lineNumber: 501,
                                     columnNumber: 70
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].span, {
@@ -7521,13 +7546,13 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                     children: picked ? "Ooh. That says a lot 👀" : scenario.mascot
                                 }, `${step}-${picked}`, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 499,
+                                    lineNumber: 501,
                                     columnNumber: 117
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 499,
+                            lineNumber: 501,
                             columnNumber: 36
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -7551,7 +7576,7 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                         children: scenario.eyebrow
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 499,
+                                        lineNumber: 501,
                                         columnNumber: 463
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -7559,7 +7584,7 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                         children: scenario.scene
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 499,
+                                        lineNumber: 501,
                                         columnNumber: 500
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7579,21 +7604,21 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                                         children: option.emoji
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 499,
+                                                        lineNumber: 501,
                                                         columnNumber: 818
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                                         children: option.label
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 499,
+                                                        lineNumber: 501,
                                                         columnNumber: 845
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                         children: option.sub
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 499,
+                                                        lineNumber: 501,
                                                         columnNumber: 876
                                                     }, this),
                                                     picked === option.value && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$render$2f$components$2f$motion$2f$proxy$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["motion"].i, {
@@ -7607,34 +7632,34 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                                             size: 15
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                            lineNumber: 499,
+                                                            lineNumber: 501,
                                                             columnNumber: 987
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 499,
+                                                        lineNumber: 501,
                                                         columnNumber: 931
                                                     }, this)
                                                 ]
                                             }, option.value, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 499,
+                                                lineNumber: 501,
                                                 columnNumber: 609
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 499,
+                                        lineNumber: 501,
                                         columnNumber: 541
                                     }, this)
                                 ]
                             }, step, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 499,
+                                lineNumber: 501,
                                 columnNumber: 321
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 499,
+                            lineNumber: 501,
                             columnNumber: 292
                         }, this),
                         saving && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7642,26 +7667,26 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 499,
+                                    lineNumber: 501,
                                     columnNumber: 1113
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                     children: "Pip is connecting suspiciously accurate dots…"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 499,
+                                    lineNumber: 501,
                                     columnNumber: 1118
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 499,
+                            lineNumber: 501,
                             columnNumber: 1084
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 499,
+                    lineNumber: 501,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("footer", {
@@ -7670,21 +7695,21 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                             size: 15
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 500,
+                            lineNumber: 502,
                             columnNumber: 17
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             children: "Your answers build your editable profile. Managers never see individual responses."
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 500,
+                            lineNumber: 502,
                             columnNumber: 42
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                             children: "Progress creature"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 500,
+                            lineNumber: 502,
                             columnNumber: 137
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7695,29 +7720,29 @@ function QuizModal({ onClose, onComplete, sound, playTone }) {
                                     className: index <= step ? "grown" : ""
                                 }, index, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 500,
+                                    lineNumber: 502,
                                     columnNumber: 256
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 500,
+                            lineNumber: 502,
                             columnNumber: 161
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 500,
+                    lineNumber: 502,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/tandem-dashboard.tsx",
-            lineNumber: 496,
+            lineNumber: 498,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 495,
+        lineNumber: 497,
         columnNumber: 5
     }, this);
 }
@@ -7761,20 +7786,20 @@ function MoodModal({ onClose, onSave }) {
                                     children: "QUICK CHECK-IN"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 278
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     children: "What's the vibe?"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 311
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 273
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7783,25 +7808,25 @@ function MoodModal({ onClose, onSave }) {
                                 size: 19
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 511,
+                                lineNumber: 513,
                                 columnNumber: 373
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 347
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 265
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "No analysis. No diagnosis. Just a moment for you."
                 }, void 0, false, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 406
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7814,25 +7839,25 @@ function MoodModal({ onClose, onSave }) {
                                     children: mood.emoji
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 635
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                     children: mood.label
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 660
                                 }, this)
                             ]
                         }, mood.id, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 513
                         }, this))
                 }, void 0, false, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 462
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -7844,7 +7869,7 @@ function MoodModal({ onClose, onSave }) {
                                     children: "Energy right now"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 740
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
@@ -7854,13 +7879,13 @@ function MoodModal({ onClose, onSave }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 769
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 735
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -7872,13 +7897,13 @@ function MoodModal({ onClose, onSave }) {
                             onChange: (event)=>setEnergy(Number(event.target.value))
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 792
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 704
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -7890,7 +7915,7 @@ function MoodModal({ onClose, onSave }) {
                             onChange: (event)=>setShare(event.target.checked)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 968
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -7900,38 +7925,38 @@ function MoodModal({ onClose, onSave }) {
                                         size: 12
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 511,
+                                        lineNumber: 513,
                                         columnNumber: 1071
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 1068
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                     children: "Share this mood with my squad"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 1094
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                     children: "Optional. Managers only see anonymised team trends."
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 511,
+                                    lineNumber: 513,
                                     columnNumber: 1130
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 1062
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 937
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -7948,24 +7973,24 @@ function MoodModal({ onClose, onSave }) {
                             size: 16
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 511,
+                            lineNumber: 513,
                             columnNumber: 1417
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 511,
+                    lineNumber: 513,
                     columnNumber: 1211
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/tandem-dashboard.tsx",
-            lineNumber: 511,
+            lineNumber: 513,
             columnNumber: 121
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 511,
+        lineNumber: 513,
         columnNumber: 10
     }, this);
 }
@@ -8026,7 +8051,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                                     children: "SEND SOME HYPE"
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 519,
+                                    lineNumber: 521,
                                     columnNumber: 286
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -8036,13 +8061,13 @@ function AppreciationModal({ person, onClose, onSend }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 519,
+                                    lineNumber: 521,
                                     columnNumber: 319
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 281
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8051,18 +8076,18 @@ function AppreciationModal({ person, onClose, onSend }) {
                                 size: 19
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 519,
+                                lineNumber: 521,
                                 columnNumber: 398
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 372
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 519,
+                    lineNumber: 521,
                     columnNumber: 273
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8073,7 +8098,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                             size: "md"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 468
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8082,7 +8107,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                                     children: person.name
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 519,
+                                    lineNumber: 521,
                                     columnNumber: 509
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -8093,19 +8118,19 @@ function AppreciationModal({ person, onClose, onSend }) {
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 519,
+                                    lineNumber: 521,
                                     columnNumber: 539
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 504
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 519,
+                    lineNumber: 521,
                     columnNumber: 431
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8115,7 +8140,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                             children: "Pick a badge"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 629
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8127,31 +8152,31 @@ function AppreciationModal({ person, onClose, onSend }) {
                                             children: item.emoji
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 519,
+                                            lineNumber: 521,
                                             columnNumber: 789
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                             children: item.name
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 519,
+                                            lineNumber: 521,
                                             columnNumber: 814
                                         }, this)
                                     ]
                                 }, item.name, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 519,
+                                    lineNumber: 521,
                                     columnNumber: 681
                                 }, this))
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 654
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 519,
+                    lineNumber: 521,
                     columnNumber: 599
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -8161,7 +8186,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                             children: "Add the human bit"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 900
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("textarea", {
@@ -8170,7 +8195,7 @@ function AppreciationModal({ person, onClose, onSend }) {
                             onChange: (event)=>setMessage(event.target.value)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 930
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
@@ -8181,13 +8206,13 @@ function AppreciationModal({ person, onClose, onSend }) {
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 1027
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 519,
+                    lineNumber: 521,
                     columnNumber: 863
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8205,24 +8230,24 @@ function AppreciationModal({ person, onClose, onSend }) {
                             fill: "currentColor"
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 519,
+                            lineNumber: 521,
                             columnNumber: 1335
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 519,
+                    lineNumber: 521,
                     columnNumber: 1111
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/tandem-dashboard.tsx",
-            lineNumber: 519,
+            lineNumber: 521,
             columnNumber: 121
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 519,
+        lineNumber: 521,
         columnNumber: 10
     }, this);
 }
@@ -8239,7 +8264,9 @@ function TandemDashboard({ user, onLogout }) {
     const [connected, setConnected] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(new Set());
     const [toast, setToast] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("");
     const [burst, setBurst] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
-    const [xp, setXp] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1720);
+    const [xp, setXp] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(0);
+    const [level1, setLevel] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(1);
+    const [archetype1, setArchetype] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])("Undiscovered Vibe");
     const [dynamicPeople, setDynamicPeople] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$tandem$2d$data$2e$ts__$5b$app$2d$client$5d$__$28$ecmascript$29$__["people"]);
     const [loading, setLoading] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(true);
     const [sound, setSound] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$index$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useState"])(true);
@@ -8259,6 +8286,10 @@ function TandemDashboard({ user, onLogout }) {
                             }
                             if (data.progress) {
                                 setXp(data.progress.xp);
+                                setLevel(data.progress.level);
+                            }
+                            if (data.profile && data.profile.archetype) {
+                                setArchetype(data.profile.archetype);
                             }
                         }
                     } catch (error) {
@@ -8344,7 +8375,7 @@ function TandemDashboard({ user, onLogout }) {
     };
     const completeQuiz = async (answers)=>{
         const total = answers.reduce((sum, value)=>sum + value, 0);
-        const archetype = total >= 19 ? "Launch Day Addict" : total >= 14 ? "Calm Chaos Controller" : "Deep Thinker";
+        const archetype1 = total >= 19 ? "Launch Day Addict" : total >= 14 ? "Calm Chaos Controller" : "Deep Thinker";
         try {
             const response = await fetch("/api/tandem", {
                 method: "POST",
@@ -8355,14 +8386,14 @@ function TandemDashboard({ user, onLogout }) {
                     action: "assessment",
                     userId: user.id,
                     answers,
-                    archetype
+                    archetype: archetype1
                 })
             });
             if (!response.ok) throw new Error();
             setXp((current)=>current + 120);
             setQuizOpen(false);
             playTone(760);
-            notify(`Profile evolved: ${archetype} · +120 XP`, true);
+            notify(`Profile evolved: ${archetype1} · +120 XP`, true);
         } catch  {
             notify("Pip dropped the personality cards. One more try?");
         }
@@ -8434,43 +8465,43 @@ function TandemDashboard({ user, onLogout }) {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 628,
+                            lineNumber: 636,
                             columnNumber: 37
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 628,
+                            lineNumber: 636,
                             columnNumber: 42
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 628,
+                            lineNumber: 636,
                             columnNumber: 47
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 628,
+                    lineNumber: 636,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Mascot, {
                     mood: "thinking"
                 }, void 0, false, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 629,
+                    lineNumber: 637,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                     children: "Connecting to the team galaxy…"
                 }, void 0, false, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 630,
+                    lineNumber: 638,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/tandem-dashboard.tsx",
-            lineNumber: 627,
+            lineNumber: 635,
             columnNumber: 7
         }, this);
     }
@@ -8482,30 +8513,30 @@ function TandemDashboard({ user, onLogout }) {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 637,
+                        lineNumber: 645,
                         columnNumber: 35
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 637,
+                        lineNumber: 645,
                         columnNumber: 40
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 637,
+                        lineNumber: 645,
                         columnNumber: 45
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 637,
+                lineNumber: 645,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Confetti, {
                 burst: burst
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 637,
+                lineNumber: 645,
                 columnNumber: 56
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("aside", {
@@ -8518,19 +8549,19 @@ function TandemDashboard({ user, onLogout }) {
                             compact: true
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 639,
+                            lineNumber: 647,
                             columnNumber: 75
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 639,
+                        lineNumber: 647,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "rail-line"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 639,
+                        lineNumber: 647,
                         columnNumber: 101
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8540,18 +8571,18 @@ function TandemDashboard({ user, onLogout }) {
                                 children: "AC"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 640,
+                                lineNumber: 648,
                                 columnNumber: 48
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 640,
+                                lineNumber: 648,
                                 columnNumber: 63
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 640,
+                        lineNumber: 648,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8560,12 +8591,12 @@ function TandemDashboard({ user, onLogout }) {
                             size: 20
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 641,
+                            lineNumber: 649,
                             columnNumber: 41
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 641,
+                        lineNumber: 649,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8574,19 +8605,19 @@ function TandemDashboard({ user, onLogout }) {
                             size: 20
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 642,
+                            lineNumber: 650,
                             columnNumber: 41
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 642,
+                        lineNumber: 650,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         className: "server-spacer"
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 643,
+                        lineNumber: 651,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8597,18 +8628,18 @@ function TandemDashboard({ user, onLogout }) {
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 643,
+                            lineNumber: 651,
                             columnNumber: 169
                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$volume$2d$x$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__VolumeX$3e$__["VolumeX"], {
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 643,
+                            lineNumber: 651,
                             columnNumber: 193
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 643,
+                        lineNumber: 651,
                         columnNumber: 42
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8617,18 +8648,18 @@ function TandemDashboard({ user, onLogout }) {
                             size: 19
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 643,
+                            lineNumber: 651,
                             columnNumber: 256
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 643,
+                        lineNumber: 651,
                         columnNumber: 224
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 638,
+                lineNumber: 646,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("aside", {
@@ -8639,7 +8670,7 @@ function TandemDashboard({ user, onLogout }) {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Brand, {}, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 646,
+                                lineNumber: 654,
                                 columnNumber: 39
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8648,18 +8679,18 @@ function TandemDashboard({ user, onLogout }) {
                                     size: 20
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 646,
+                                    lineNumber: 654,
                                     columnNumber: 93
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 646,
+                                lineNumber: 654,
                                 columnNumber: 48
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 646,
+                        lineNumber: 654,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8669,7 +8700,7 @@ function TandemDashboard({ user, onLogout }) {
                                 children: "AC"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 647,
+                                lineNumber: 655,
                                 columnNumber: 44
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8678,33 +8709,33 @@ function TandemDashboard({ user, onLogout }) {
                                         children: "Arc & Co."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 647,
+                                        lineNumber: 655,
                                         columnNumber: 64
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                         children: "46 humans · 12 online"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 647,
+                                        lineNumber: 655,
                                         columnNumber: 90
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 647,
+                                lineNumber: 655,
                                 columnNumber: 59
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$down$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronDown$3e$__["ChevronDown"], {
                                 size: 15
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 647,
+                                lineNumber: 655,
                                 columnNumber: 132
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 647,
+                        lineNumber: 655,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -8714,7 +8745,7 @@ function TandemDashboard({ user, onLogout }) {
                                 size: 16
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 648,
+                                lineNumber: 656,
                                 columnNumber: 43
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -8722,20 +8753,20 @@ function TandemDashboard({ user, onLogout }) {
                                 placeholder: "Search anything"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 648,
+                                lineNumber: 656,
                                 columnNumber: 63
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("kbd", {
                                 children: "⌘K"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 648,
+                                lineNumber: 656,
                                 columnNumber: 129
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 648,
+                        lineNumber: 656,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -8744,7 +8775,7 @@ function TandemDashboard({ user, onLogout }) {
                                 children: "YOUR SPACE"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 649,
+                                lineNumber: 657,
                                 columnNumber: 14
                             }, this),
                             desktopNav.map((item)=>{
@@ -8757,34 +8788,34 @@ function TandemDashboard({ user, onLogout }) {
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 649,
+                                            lineNumber: 657,
                                             columnNumber: 204
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: viewMeta[item].label
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 649,
+                                            lineNumber: 657,
                                             columnNumber: 222
                                         }, this),
                                         item === "challenges" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("b", {
                                             children: "3"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 649,
+                                            lineNumber: 657,
                                             columnNumber: 283
                                         }, this),
                                         item === "wrapped" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                                             children: "NEW"
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 649,
+                                            lineNumber: 657,
                                             columnNumber: 315
                                         }, this)
                                     ]
                                 }, item, true, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 649,
+                                    lineNumber: 657,
                                     columnNumber: 112
                                 }, this);
                             }),
@@ -8792,7 +8823,7 @@ function TandemDashboard({ user, onLogout }) {
                                 children: "WORKSPACE"
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 649,
+                                lineNumber: 657,
                                 columnNumber: 342
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8803,27 +8834,27 @@ function TandemDashboard({ user, onLogout }) {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 461
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Team studio"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 492
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                         className: "privacy-dot"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 516
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 649,
+                                lineNumber: 657,
                                 columnNumber: 370
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8833,20 +8864,20 @@ function TandemDashboard({ user, onLogout }) {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 628
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "Coffee roulette"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 648
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 649,
+                                lineNumber: 657,
                                 columnNumber: 554
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -8856,26 +8887,26 @@ function TandemDashboard({ user, onLogout }) {
                                         size: 18
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 753
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                         children: "AI ice breakers"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 649,
+                                        lineNumber: 657,
                                         columnNumber: 770
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 649,
+                                lineNumber: 657,
                                 columnNumber: 685
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 649,
+                        lineNumber: 657,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8885,35 +8916,38 @@ function TandemDashboard({ user, onLogout }) {
                                 className: "level-top",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(ProgressRing, {
-                                        value: 72,
+                                        value: xp % 1000 / 10,
                                         color: "#9b87ff",
                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "17"
+                                            children: level1
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 650,
-                                            columnNumber: 108
+                                            lineNumber: 658,
+                                            columnNumber: 122
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 650,
+                                        lineNumber: 658,
                                         columnNumber: 67
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
-                                                children: "LEVEL 17"
-                                            }, void 0, false, {
+                                                children: [
+                                                    "LEVEL ",
+                                                    level1
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 650,
-                                                columnNumber: 147
+                                                lineNumber: 658,
+                                                columnNumber: 166
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                                children: "Calm Chaos Controller"
+                                                children: archetype1
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 650,
-                                                columnNumber: 170
+                                                lineNumber: 658,
+                                                columnNumber: 194
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: [
@@ -8922,58 +8956,58 @@ function TandemDashboard({ user, onLogout }) {
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 650,
-                                                columnNumber: 208
+                                                lineNumber: 658,
+                                                columnNumber: 222
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 650,
-                                        columnNumber: 142
+                                        lineNumber: 658,
+                                        columnNumber: 161
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 650,
+                                lineNumber: 658,
                                 columnNumber: 40
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "level-bar",
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {
                                     style: {
-                                        width: "72%"
+                                        width: `${xp % 1000 / 10}%`
                                     }
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 650,
-                                    columnNumber: 284
+                                    lineNumber: 658,
+                                    columnNumber: 298
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 650,
-                                columnNumber: 257
+                                lineNumber: 658,
+                                columnNumber: 271
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                 onClick: ()=>navigate("challenges"),
                                 children: [
-                                    "680 XP to level 18 ",
+                                    "Keep playing to level up ",
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
                                         size: 13
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 650,
-                                        columnNumber: 386
+                                        lineNumber: 658,
+                                        columnNumber: 423
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 650,
-                                columnNumber: 320
+                                lineNumber: 658,
+                                columnNumber: 351
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 650,
+                        lineNumber: 658,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -8985,13 +9019,13 @@ function TandemDashboard({ user, onLogout }) {
                                     user.name.charAt(0),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 651,
+                                        lineNumber: 659,
                                         columnNumber: 97
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 651,
+                                lineNumber: 659,
                                 columnNumber: 39
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9000,20 +9034,20 @@ function TandemDashboard({ user, onLogout }) {
                                         children: user.name.split(" ")[0]
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 651,
+                                        lineNumber: 659,
                                         columnNumber: 114
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                         children: "Product · Locked in 🎯"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 651,
+                                        lineNumber: 659,
                                         columnNumber: 156
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 651,
+                                lineNumber: 659,
                                 columnNumber: 109
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9024,24 +9058,24 @@ function TandemDashboard({ user, onLogout }) {
                                     size: 18
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 651,
+                                    lineNumber: 659,
                                     columnNumber: 277
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 651,
+                                lineNumber: 659,
                                 columnNumber: 199
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 651,
+                        lineNumber: 659,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 645,
+                lineNumber: 653,
                 columnNumber: 7
             }, this),
             mobileOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9050,7 +9084,7 @@ function TandemDashboard({ user, onLogout }) {
                 "aria-label": "Close menu"
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 653,
+                lineNumber: 661,
                 columnNumber: 22
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9066,12 +9100,12 @@ function TandemDashboard({ user, onLogout }) {
                                     size: 21
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 655,
+                                    lineNumber: 663,
                                     columnNumber: 104
                                 }, this)
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 655,
+                                lineNumber: 663,
                                 columnNumber: 36
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9081,27 +9115,27 @@ function TandemDashboard({ user, onLogout }) {
                                         children: "Arc & Co."
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 159
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chevron$2d$right$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__ChevronRight$3e$__["ChevronRight"], {
                                         size: 13
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 181
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                         children: viewMeta[view].label
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 207
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 655,
+                                lineNumber: 663,
                                 columnNumber: 131
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9114,27 +9148,27 @@ function TandemDashboard({ user, onLogout }) {
                                                 size: 16
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 312
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                 children: "Ask Pip anything…"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 332
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("kbd", {
                                                 children: "⌘ /"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 362
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 281
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9144,18 +9178,18 @@ function TandemDashboard({ user, onLogout }) {
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 655,
+                                            lineNumber: 663,
                                             columnNumber: 459
                                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$volume$2d$x$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__VolumeX$3e$__["VolumeX"], {
                                             size: 18
                                         }, void 0, false, {
                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                            lineNumber: 655,
+                                            lineNumber: 663,
                                             columnNumber: 483
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 385
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9169,18 +9203,18 @@ function TandemDashboard({ user, onLogout }) {
                                                         size: 18
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 655,
+                                                        lineNumber: 663,
                                                         columnNumber: 658
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("i", {}, void 0, false, {
                                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                        lineNumber: 655,
+                                                        lineNumber: 663,
                                                         columnNumber: 676
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 549
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -9207,20 +9241,20 @@ function TandemDashboard({ user, onLogout }) {
                                                                     children: "Fresh from your orbit"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 893
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                     children: "2 new"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 931
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                            lineNumber: 655,
+                                                            lineNumber: 663,
                                                             columnNumber: 888
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9234,7 +9268,7 @@ function TandemDashboard({ user, onLogout }) {
                                                                     children: "✨"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 1033
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -9243,26 +9277,26 @@ function TandemDashboard({ user, onLogout }) {
                                                                             children: "Your Weekly Wrapped just dropped"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                            lineNumber: 655,
+                                                                            lineNumber: 663,
                                                                             columnNumber: 1081
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                                             children: "See the week you somehow survived · now"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                            lineNumber: 655,
+                                                                            lineNumber: 663,
                                                                             columnNumber: 1120
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 1078
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                            lineNumber: 655,
+                                                            lineNumber: 663,
                                                             columnNumber: 955
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9276,7 +9310,7 @@ function TandemDashboard({ user, onLogout }) {
                                                                     children: "☕"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 1263
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -9285,43 +9319,43 @@ function TandemDashboard({ user, onLogout }) {
                                                                             children: "Sarah accepted your coffee signal"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                            lineNumber: 655,
+                                                                            lineNumber: 663,
                                                                             columnNumber: 1309
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("small", {
                                                                             children: "Thursday at 2:00 PM · 12 min ago"
                                                                         }, void 0, false, {
                                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                            lineNumber: 655,
+                                                                            lineNumber: 663,
                                                                             columnNumber: 1349
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                                    lineNumber: 655,
+                                                                    lineNumber: 663,
                                                                     columnNumber: 1306
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                            lineNumber: 655,
+                                                            lineNumber: 663,
                                                             columnNumber: 1187
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                    lineNumber: 655,
+                                                    lineNumber: 663,
                                                     columnNumber: 729
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 690
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 514
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -9332,26 +9366,26 @@ function TandemDashboard({ user, onLogout }) {
                                                 size: 15
                                             }, void 0, false, {
                                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                                lineNumber: 655,
+                                                lineNumber: 663,
                                                 columnNumber: 1548
                                             }, this),
                                             view === "manager" ? "Employee mode" : "Team studio"
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 655,
+                                        lineNumber: 663,
                                         columnNumber: 1447
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 655,
+                                lineNumber: 663,
                                 columnNumber: 252
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 655,
+                        lineNumber: 663,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -9381,19 +9415,24 @@ function TandemDashboard({ user, onLogout }) {
                                     notify: notify,
                                     mood: mood,
                                     xp: xp,
+                                    level: level1,
+                                    archetype: archetype1,
                                     people: dynamicPeople,
                                     user: user
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 657,
+                                    lineNumber: 665,
                                     columnNumber: 31
                                 }, this),
                                 view === "profile" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(ProfileView, {
                                     openQuiz: ()=>setQuizOpen(true),
-                                    notify: notify
+                                    notify: notify,
+                                    user: user,
+                                    level: level1,
+                                    archetype: archetype1
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 658,
+                                    lineNumber: 666,
                                     columnNumber: 34
                                 }, this),
                                 view === "squad" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(SquadView, {
@@ -9404,7 +9443,7 @@ function TandemDashboard({ user, onLogout }) {
                                     people: dynamicPeople
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 659,
+                                    lineNumber: 667,
                                     columnNumber: 32
                                 }, this),
                                 view === "galaxy" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(GalaxyView, {
@@ -9412,23 +9451,26 @@ function TandemDashboard({ user, onLogout }) {
                                     people: dynamicPeople
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 660,
+                                    lineNumber: 668,
                                     columnNumber: 33
                                 }, this),
                                 view === "challenges" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(ChallengesView, {
                                     notify: notify,
-                                    xp: xp
+                                    xp: xp,
+                                    level: level1
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 661,
+                                    lineNumber: 669,
                                     columnNumber: 37
                                 }, this),
                                 view === "wrapped" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(WrappedView, {
                                     notify: notify,
-                                    user: user
+                                    user: user,
+                                    level: level1,
+                                    archetype: archetype1
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 662,
+                                    lineNumber: 670,
                                     columnNumber: 34
                                 }, this),
                                 view === "manager" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(ManagerView, {
@@ -9436,24 +9478,24 @@ function TandemDashboard({ user, onLogout }) {
                                     people: dynamicPeople
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 663,
+                                    lineNumber: 671,
                                     columnNumber: 34
                                 }, this)
                             ]
                         }, view, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 656,
+                            lineNumber: 664,
                             columnNumber: 38
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 656,
+                        lineNumber: 664,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 654,
+                lineNumber: 662,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -9484,23 +9526,23 @@ function TandemDashboard({ user, onLogout }) {
                                         size: 12
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                        lineNumber: 666,
+                                        lineNumber: 674,
                                         columnNumber: 332
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                    lineNumber: 666,
+                                    lineNumber: 674,
                                     columnNumber: 285
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 666,
+                            lineNumber: 674,
                             columnNumber: 74
                         }, this)
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 666,
+                        lineNumber: 674,
                         columnNumber: 40
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(Mascot, {
@@ -9511,13 +9553,13 @@ function TandemDashboard({ user, onLogout }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 666,
+                        lineNumber: 674,
                         columnNumber: 388
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 666,
+                lineNumber: 674,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
@@ -9537,26 +9579,26 @@ function TandemDashboard({ user, onLogout }) {
                                 size: 19
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 667,
+                                lineNumber: 675,
                                 columnNumber: 250
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                 children: viewMeta[item].label
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 667,
+                                lineNumber: 675,
                                 columnNumber: 268
                             }, this)
                         ]
                     }, item, true, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 667,
+                        lineNumber: 675,
                         columnNumber: 158
                     }, this);
                 })
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 667,
+                lineNumber: 675,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -9568,7 +9610,7 @@ function TandemDashboard({ user, onLogout }) {
                         playTone: playTone
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 668,
+                        lineNumber: 676,
                         columnNumber: 37
                     }, this),
                     moodOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(MoodModal, {
@@ -9576,7 +9618,7 @@ function TandemDashboard({ user, onLogout }) {
                         onSave: saveMood
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 668,
+                        lineNumber: 676,
                         columnNumber: 159
                     }, this),
                     appreciationPerson && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(AppreciationModal, {
@@ -9585,13 +9627,13 @@ function TandemDashboard({ user, onLogout }) {
                         onSend: sendAppreciation
                     }, void 0, false, {
                         fileName: "[project]/src/app/tandem-dashboard.tsx",
-                        lineNumber: 668,
+                        lineNumber: 676,
                         columnNumber: 249
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 668,
+                lineNumber: 676,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$components$2f$AnimatePresence$2f$index$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["AnimatePresence"], {
@@ -9618,40 +9660,40 @@ function TandemDashboard({ user, onLogout }) {
                                 size: 15
                             }, void 0, false, {
                                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                                lineNumber: 669,
+                                lineNumber: 677,
                                 columnNumber: 198
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 669,
+                            lineNumber: 677,
                             columnNumber: 192
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             children: toast
                         }, void 0, false, {
                             fileName: "[project]/src/app/tandem-dashboard.tsx",
-                            lineNumber: 669,
+                            lineNumber: 677,
                             columnNumber: 224
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/app/tandem-dashboard.tsx",
-                    lineNumber: 669,
+                    lineNumber: 677,
                     columnNumber: 34
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/app/tandem-dashboard.tsx",
-                lineNumber: 669,
+                lineNumber: 677,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/tandem-dashboard.tsx",
-        lineNumber: 636,
+        lineNumber: 644,
         columnNumber: 5
     }, this);
 }
-_s8(TandemDashboard, "cgkdNB1UVkxQu9lbrjEMWMFv/2s=", false, function() {
+_s8(TandemDashboard, "NYMEv3E/rqMtzIvyZcsjrwcJxtI=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$framer$2d$motion$2f$dist$2f$es$2f$utils$2f$reduced$2d$motion$2f$use$2d$reduced$2d$motion$2e$mjs__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useReducedMotion"]
     ];
